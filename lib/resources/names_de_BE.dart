@@ -1,0 +1,1 @@
+const names = {"chm": "Tscheremissisch"};
