@@ -264,7 +264,6 @@ const names = {
   "ssy": "Saho",
   "st": "Kisotho cha Kusini",
   "sus": "Susu",
-  "sw_CD": "Kiswahili cha Kongo",
   "swb": "Kikomoro",
   "syr": "Kisiria",
   "ta": "Kitamil",
