@@ -39,7 +39,7 @@ void main() {
     Locale zh = Locale.fromSubtags(
         languageCode: 'zh', scriptCode: "Hans", countryCode: 'CN');
     expect(zh.displayLanguageIn(fr), "chinois");
-    expect(zh.displayLanguageScriptIn(fr), "chinois simplifié");
+    expect(zh.displayLanguageScriptIn(fr), "chinois (simplifié)");
     expect(zh.displayCountryIn(fr), "Chine");
   });
 }
