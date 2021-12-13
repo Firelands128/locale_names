@@ -1,6 +1,6 @@
 name: locale_names
 description: A Flutter package that provide locale display names in locales.
-version: 0.0.1-beta
+version: 0.0.1
 repository: https://github.com/Firelands128/locale_names
 
 environment:
