@@ -678,18 +678,18 @@ class MyAppState extends State<MyApp> {
     Locale.fromSubtags(languageCode: "zu", countryCode: "ZA")
   ];
 
-  Locale _value1 = languages[0];
-  Locale _value2 = scripts[0];
-  Locale _value3 = countries[0];
-  Locale _value4 = languages[0];
-  Locale _value5 = scripts[0];
-  Locale _value6 = countries[0];
-  Locale _value7 = languages[0];
-  Locale _value8 = scripts[0];
-  Locale _value9 = countries[0];
-  Locale _locale1 = languages[0];
-  Locale _locale2 = languages[0];
-  Locale _locale3 = languages[0];
+  Locale? _value1 = languages[0];
+  Locale? _value2 = scripts[0];
+  Locale? _value3 = countries[0];
+  Locale? _value4 = languages[0];
+  Locale? _value5 = scripts[0];
+  Locale? _value6 = countries[0];
+  Locale? _value7 = languages[0];
+  Locale? _value8 = scripts[0];
+  Locale? _value9 = countries[0];
+  Locale? _locale1 = languages[0];
+  Locale? _locale2 = languages[0];
+  Locale? _locale3 = languages[0];
 
   @override
   Widget build(BuildContext context) {
@@ -711,7 +711,7 @@ class MyAppState extends State<MyApp> {
                   items: [
                     ...languages.map(
                       (language) => DropdownMenuItem(
-                        child: Text(language.defaultDisplayLanguage),
+                        child: Text(language.defaultDisplayLanguage ?? ''),
                         value: language,
                       ),
                     ),
@@ -730,7 +730,7 @@ class MyAppState extends State<MyApp> {
                   items: [
                     ...scripts.map(
                       (script) => DropdownMenuItem(
-                        child: Text(script.defaultDisplayLanguageScript),
+                        child: Text(script.defaultDisplayLanguageScript ?? ''),
                         value: script,
                       ),
                     ),
@@ -749,7 +749,7 @@ class MyAppState extends State<MyApp> {
                   items: [
                     ...countries.map(
                       (country) => DropdownMenuItem(
-                        child: Text(country.defaultDisplayCountry),
+                        child: Text(country.defaultDisplayCountry ?? ''),
                         value: country,
                       ),
                     ),
@@ -768,7 +768,7 @@ class MyAppState extends State<MyApp> {
                   items: [
                     ...languages.map(
                       (language) => DropdownMenuItem(
-                        child: Text(language.nativeDisplayLanguage),
+                        child: Text(language.nativeDisplayLanguage ?? ''),
                         value: language,
                       ),
                     ),
@@ -787,7 +787,7 @@ class MyAppState extends State<MyApp> {
                   items: [
                     ...scripts.map(
                       (script) => DropdownMenuItem(
-                        child: Text(script.nativeDisplayLanguageScript),
+                        child: Text(script.nativeDisplayLanguageScript ?? ''),
                         value: script,
                       ),
                     ),
@@ -806,7 +806,7 @@ class MyAppState extends State<MyApp> {
                   items: [
                     ...countries.map(
                       (country) => DropdownMenuItem(
-                        child: Text(country.nativeDisplayCountry),
+                        child: Text(country.nativeDisplayCountry ?? ''),
                         value: country,
                       ),
                     ),
@@ -844,7 +844,7 @@ class MyAppState extends State<MyApp> {
                   items: [
                     ...languages.map(
                       (language) => DropdownMenuItem(
-                        child: Text(language.displayLanguageIn(_locale1)),
+                        child: Text(language.displayLanguageIn(_locale1!) ?? ''),
                         value: language,
                       ),
                     ),
@@ -882,7 +882,7 @@ class MyAppState extends State<MyApp> {
                   items: [
                     ...scripts.map(
                       (script) => DropdownMenuItem(
-                        child: Text(script.displayLanguageScriptIn(_locale2)),
+                        child: Text(script.displayLanguageScriptIn(_locale2!) ?? ''),
                         value: script,
                       ),
                     ),
@@ -920,7 +920,7 @@ class MyAppState extends State<MyApp> {
                   items: [
                     ...countries.map(
                       (country) => DropdownMenuItem(
-                        child: Text(country.displayCountryIn(_locale3)),
+                        child: Text(country.displayCountryIn(_locale3!) ?? ''),
                         value: country,
                       ),
                     ),
