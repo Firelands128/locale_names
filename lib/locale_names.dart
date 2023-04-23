@@ -1371,7 +1371,7 @@ extension DisplayNames on Locale {
       String parentName = parts.sublist(0, parts.length - 1).join("_");
       parent = this._load(parentName);
     }
-    Map<String, String> data = tables[name];
+    Map<String, String>? data = tables[name];
     if (data != null) {
       parent.addAll(data);
     }
