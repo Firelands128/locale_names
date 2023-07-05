@@ -295,8 +295,7 @@ class MyAppState extends State<MyApp> {
     Locale.fromSubtags(languageCode: "ar", countryCode: "YE"),
     Locale.fromSubtags(languageCode: "as", countryCode: "IN"),
     Locale.fromSubtags(languageCode: "az", countryCode: "AZ"),
-    Locale.fromSubtags(
-        languageCode: "az", scriptCode: "Cyrl", countryCode: "AZ"),
+    Locale.fromSubtags(languageCode: "az", scriptCode: "Cyrl", countryCode: "AZ"),
     Locale.fromSubtags(languageCode: "be", countryCode: "BY"),
     Locale.fromSubtags(languageCode: "bg", countryCode: "BG"),
     Locale.fromSubtags(languageCode: "bn", countryCode: "BD"),
@@ -305,8 +304,7 @@ class MyAppState extends State<MyApp> {
     Locale.fromSubtags(languageCode: "bo", countryCode: "IN"),
     Locale.fromSubtags(languageCode: "br", countryCode: "FR"),
     Locale.fromSubtags(languageCode: "bs", countryCode: "BA"),
-    Locale.fromSubtags(
-        languageCode: "bs", scriptCode: "Cyrl", countryCode: "BA"),
+    Locale.fromSubtags(languageCode: "bs", scriptCode: "Cyrl", countryCode: "BA"),
     Locale.fromSubtags(languageCode: "ca", countryCode: "AD"),
     Locale.fromSubtags(languageCode: "ca", countryCode: "ES"),
     Locale.fromSubtags(languageCode: "ca", countryCode: "FR"),
@@ -612,20 +610,13 @@ class MyAppState extends State<MyApp> {
     Locale.fromSubtags(languageCode: "sr", countryCode: "ME"),
     Locale.fromSubtags(languageCode: "sr", countryCode: "RS"),
     Locale.fromSubtags(languageCode: "sr", countryCode: "XK"),
-    Locale.fromSubtags(
-        languageCode: "sr", scriptCode: "Cyrl", countryCode: "BA"),
-    Locale.fromSubtags(
-        languageCode: "sr", scriptCode: "Cyrl", countryCode: "ME"),
-    Locale.fromSubtags(
-        languageCode: "sr", scriptCode: "Cyrl", countryCode: "XK"),
-    Locale.fromSubtags(
-        languageCode: "sr", scriptCode: "Latn", countryCode: "BA"),
-    Locale.fromSubtags(
-        languageCode: "sr", scriptCode: "Latn", countryCode: "ME"),
-    Locale.fromSubtags(
-        languageCode: "sr", scriptCode: "Latn", countryCode: "RS"),
-    Locale.fromSubtags(
-        languageCode: "sr", scriptCode: "Latn", countryCode: "XK"),
+    Locale.fromSubtags(languageCode: "sr", scriptCode: "Cyrl", countryCode: "BA"),
+    Locale.fromSubtags(languageCode: "sr", scriptCode: "Cyrl", countryCode: "ME"),
+    Locale.fromSubtags(languageCode: "sr", scriptCode: "Cyrl", countryCode: "XK"),
+    Locale.fromSubtags(languageCode: "sr", scriptCode: "Latn", countryCode: "BA"),
+    Locale.fromSubtags(languageCode: "sr", scriptCode: "Latn", countryCode: "ME"),
+    Locale.fromSubtags(languageCode: "sr", scriptCode: "Latn", countryCode: "RS"),
+    Locale.fromSubtags(languageCode: "sr", scriptCode: "Latn", countryCode: "XK"),
     Locale.fromSubtags(languageCode: "sv", countryCode: "AX"),
     Locale.fromSubtags(languageCode: "sv", countryCode: "FI"),
     Locale.fromSubtags(languageCode: "sv", countryCode: "SE"),
@@ -651,10 +642,8 @@ class MyAppState extends State<MyApp> {
     Locale.fromSubtags(languageCode: "ur", countryCode: "PK"),
     Locale.fromSubtags(languageCode: "uz", countryCode: "AF"),
     Locale.fromSubtags(languageCode: "uz", countryCode: "UZ"),
-    Locale.fromSubtags(
-        languageCode: "uz", scriptCode: "Cyrl", countryCode: "UZ"),
-    Locale.fromSubtags(
-        languageCode: "uz", scriptCode: "Latn", countryCode: "UZ"),
+    Locale.fromSubtags(languageCode: "uz", scriptCode: "Cyrl", countryCode: "UZ"),
+    Locale.fromSubtags(languageCode: "uz", scriptCode: "Latn", countryCode: "UZ"),
     Locale.fromSubtags(languageCode: "vi", countryCode: "VN"),
     Locale.fromSubtags(languageCode: "yo", countryCode: "BJ"),
     Locale.fromSubtags(languageCode: "yo", countryCode: "NG"),
@@ -663,18 +652,12 @@ class MyAppState extends State<MyApp> {
     Locale.fromSubtags(languageCode: "zh", countryCode: "MO"),
     Locale.fromSubtags(languageCode: "zh", countryCode: "SG"),
     Locale.fromSubtags(languageCode: "zh", countryCode: "TW"),
-    Locale.fromSubtags(
-        languageCode: "zh", scriptCode: "Hans", countryCode: "HK"),
-    Locale.fromSubtags(
-        languageCode: "zh", scriptCode: "Hans", countryCode: "MO"),
-    Locale.fromSubtags(
-        languageCode: "zh", scriptCode: "Hans", countryCode: "SG"),
-    Locale.fromSubtags(
-        languageCode: "zh", scriptCode: "Hant", countryCode: "HK"),
-    Locale.fromSubtags(
-        languageCode: "zh", scriptCode: "Hant", countryCode: "MO"),
-    Locale.fromSubtags(
-        languageCode: "zh", scriptCode: "Hant", countryCode: "TW"),
+    Locale.fromSubtags(languageCode: "zh", scriptCode: "Hans", countryCode: "HK"),
+    Locale.fromSubtags(languageCode: "zh", scriptCode: "Hans", countryCode: "MO"),
+    Locale.fromSubtags(languageCode: "zh", scriptCode: "Hans", countryCode: "SG"),
+    Locale.fromSubtags(languageCode: "zh", scriptCode: "Hant", countryCode: "HK"),
+    Locale.fromSubtags(languageCode: "zh", scriptCode: "Hant", countryCode: "MO"),
+    Locale.fromSubtags(languageCode: "zh", scriptCode: "Hant", countryCode: "TW"),
     Locale.fromSubtags(languageCode: "zu", countryCode: "ZA")
   ];
 
@@ -704,9 +687,8 @@ class MyAppState extends State<MyApp> {
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
-                Text(
-                    "Display Language Names in English (defaultDisplayLanguage)"),
-                DropdownButton(
+                Text("Display Language Names in English (defaultDisplayLanguage)"),
+                DropdownButton<Locale>(
                   value: _value1,
                   items: [
                     ...languages.map(
@@ -717,15 +699,12 @@ class MyAppState extends State<MyApp> {
                     ),
                   ],
                   onChanged: (value) {
-                    setState(() {
-                      _value1 = value;
-                    });
+                    setState(() => _value1 = value ?? _value1);
                   },
                 ),
                 SizedBox(height: 30),
-                Text(
-                    "Display Language Script Names in English (defaultDisplayLanguageScript)"),
-                DropdownButton(
+                Text("Display Language Script Names in English (defaultDisplayLanguageScript)"),
+                DropdownButton<Locale>(
                   value: _value2,
                   items: [
                     ...scripts.map(
@@ -736,15 +715,12 @@ class MyAppState extends State<MyApp> {
                     ),
                   ],
                   onChanged: (value) {
-                    setState(() {
-                      _value2 = value;
-                    });
+                    setState(() => _value2 = value ?? _value2);
                   },
                 ),
                 SizedBox(height: 30),
-                Text(
-                    "Display Country Names in English (defaultDisplayCountry)"),
-                DropdownButton(
+                Text("Display Country Names in English (defaultDisplayCountry)"),
+                DropdownButton<Locale>(
                   value: _value3,
                   items: [
                     ...countries.map(
@@ -755,15 +731,12 @@ class MyAppState extends State<MyApp> {
                     ),
                   ],
                   onChanged: (value) {
-                    setState(() {
-                      _value3 = value;
-                    });
+                    setState(() => _value3 = value ?? _value3);
                   },
                 ),
                 SizedBox(height: 30),
-                Text(
-                    "Display Language Names in Native Languages (nativeDisplayLanguage)"),
-                DropdownButton(
+                Text("Display Language Names in Native Languages (nativeDisplayLanguage)"),
+                DropdownButton<Locale>(
                   value: _value4,
                   items: [
                     ...languages.map(
@@ -774,15 +747,12 @@ class MyAppState extends State<MyApp> {
                     ),
                   ],
                   onChanged: (value) {
-                    setState(() {
-                      _value4 = value;
-                    });
+                    setState(() => _value4 = value ?? _value4);
                   },
                 ),
                 SizedBox(height: 30),
-                Text(
-                    "Display Language Script Names in Native Languages (nativeDisplayLanguageScript)"),
-                DropdownButton(
+                Text("Display Language Script Names in Native Languages (nativeDisplayLanguageScript)"),
+                DropdownButton<Locale>(
                   value: _value5,
                   items: [
                     ...scripts.map(
@@ -793,15 +763,12 @@ class MyAppState extends State<MyApp> {
                     ),
                   ],
                   onChanged: (value) {
-                    setState(() {
-                      _value5 = value;
-                    });
+                    setState(() => _value5 = value ?? _value5);
                   },
                 ),
                 SizedBox(height: 30),
-                Text(
-                    "Display Country Names in Native Languages (nativeDisplayCountry)"),
-                DropdownButton(
+                Text("Display Country Names in Native Languages (nativeDisplayCountry)"),
+                DropdownButton<Locale>(
                   value: _value6,
                   items: [
                     ...countries.map(
@@ -812,16 +779,14 @@ class MyAppState extends State<MyApp> {
                     ),
                   ],
                   onChanged: (value) {
-                    setState(() {
-                      _value6 = value;
-                    });
+                    setState(() => _value6 = value ?? _value6);
                   },
                 ),
                 SizedBox(height: 30),
                 Row(
                   children: [
                     Text("Display Language Names in "),
-                    DropdownButton(
+                    DropdownButton<Locale>(
                       value: _locale1,
                       items: [
                         ...languages.map(
@@ -832,14 +797,12 @@ class MyAppState extends State<MyApp> {
                         ),
                       ],
                       onChanged: (value) {
-                        setState(() {
-                          _locale1 = value;
-                        });
+                        setState(() => _locale1 = value ?? _locale1);
                       },
                     ),
                   ],
                 ),
-                DropdownButton(
+                DropdownButton<Locale>(
                   value: _value7,
                   items: [
                     ...languages.map(
@@ -850,16 +813,14 @@ class MyAppState extends State<MyApp> {
                     ),
                   ],
                   onChanged: (value) {
-                    setState(() {
-                      _value7 = value;
-                    });
+                    setState(() => _value7 = value ?? _value7);
                   },
                 ),
                 SizedBox(height: 30),
                 Row(
                   children: [
                     Text("Display Language Script Names in "),
-                    DropdownButton(
+                    DropdownButton<Locale>(
                       value: _locale2,
                       items: [
                         ...languages.map(
@@ -870,14 +831,12 @@ class MyAppState extends State<MyApp> {
                         ),
                       ],
                       onChanged: (value) {
-                        setState(() {
-                          _locale2 = value;
-                        });
+                        setState(() => _locale2 = value ?? _locale2);
                       },
                     ),
                   ],
                 ),
-                DropdownButton(
+                DropdownButton<Locale>(
                   value: _value8,
                   items: [
                     ...scripts.map(
@@ -888,16 +847,14 @@ class MyAppState extends State<MyApp> {
                     ),
                   ],
                   onChanged: (value) {
-                    setState(() {
-                      _value8 = value;
-                    });
+                    setState(() => _value8 = value ?? _value8);
                   },
                 ),
                 SizedBox(height: 30),
                 Row(
                   children: [
                     Text("Display Country Names in "),
-                    DropdownButton(
+                    DropdownButton<Locale>(
                       value: _locale3,
                       items: [
                         ...languages.map(
@@ -908,14 +865,12 @@ class MyAppState extends State<MyApp> {
                         ),
                       ],
                       onChanged: (value) {
-                        setState(() {
-                          _locale3 = value;
-                        });
+                        setState(() => _locale3 = value ?? _locale3);
                       },
                     ),
                   ],
                 ),
-                DropdownButton(
+                DropdownButton<Locale>(
                   value: _value9,
                   items: [
                     ...countries.map(
@@ -926,9 +881,7 @@ class MyAppState extends State<MyApp> {
                     ),
                   ],
                   onChanged: (value) {
-                    setState(() {
-                      _value9 = value;
-                    });
+                    setState(() => _value9 = value ?? _value9);
                   },
                 ),
               ],
