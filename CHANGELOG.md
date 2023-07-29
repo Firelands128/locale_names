@@ -1,3 +1,6 @@
+## 1.1.0
+Migrating to Dart 3.
+
 ## 1.0.0
 Migrate to null safety.
 
