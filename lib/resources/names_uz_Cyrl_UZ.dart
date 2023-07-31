@@ -1,3 +1,4 @@
+/// Locale names of Uzbek (Cyrillic, Uzbekistan)
 const names = {
   "aa": "Afar",
   "ab": "Абхазча",

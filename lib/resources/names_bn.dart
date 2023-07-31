@@ -1,3 +1,4 @@
+/// Locale names of Bangla
 const names = {
   "001": "পৃথিবী",
   "002": "আফ্রিকা",

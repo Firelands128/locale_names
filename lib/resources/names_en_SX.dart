@@ -1,3 +1,4 @@
+/// Locale names of English (Sint Maarten)
 const names = {
   "BL": "St. Barthélemy",
   "CZ": "Czechia",

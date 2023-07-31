@@ -1,3 +1,4 @@
+/// Locale names of Tibetan (India)
 const names = {
   "009": "ཨོཤི་ཡཱན་ན།",
   "AD": "Andorra",

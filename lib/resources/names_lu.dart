@@ -1,3 +1,4 @@
+/// Locale names of Luba-Katanga
 const names = {
   "AD": "Andore",
   "AE": "Lemila alabu",

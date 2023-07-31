@@ -1,3 +1,4 @@
+/// Locale names of Pashto (Pakistan)
 const names = {
   "019": "امريکے",
   "PS": "فلسطين سيمے",

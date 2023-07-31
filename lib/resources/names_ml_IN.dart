@@ -1,3 +1,4 @@
+/// Locale names of Malayalam (India)
 const names = {
   "frc": "Cajun French",
   "gan": "Gan Chinese",

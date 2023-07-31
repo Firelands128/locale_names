@@ -1,3 +1,4 @@
+/// Locale names of Cebuano
 const names = {
   "001": "Kalibutan",
   "002": "Africa",

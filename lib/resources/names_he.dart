@@ -1,3 +1,4 @@
+/// Locale names of Hebrew
 const names = {
   "001": "העולם",
   "002": "אפריקה",

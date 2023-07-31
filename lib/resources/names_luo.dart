@@ -1,3 +1,4 @@
+/// Locale names of Luo
 const names = {
   "AD": "Andorra",
   "AE": "United Arab Emirates",

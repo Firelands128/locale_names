@@ -1,3 +1,4 @@
+/// Locale names of Norwegian Bokmål (Svalbard & Jan Mayen)
 const names = {
   "ady": "adyghe",
   "aeb": "Tunisian Arabic",

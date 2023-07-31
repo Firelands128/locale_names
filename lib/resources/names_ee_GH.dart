@@ -1,3 +1,4 @@
+/// Locale names of Ewe (Ghana)
 const names = {
   "BQ": "Caribbean Netherlands",
   "CW": "Curaçao",

@@ -1,3 +1,4 @@
+/// Locale names of Urdu
 const names = {
   "001": "دنیا",
   "002": "افریقہ",

@@ -1,3 +1,4 @@
+/// Locale names of Icelandic
 const names = {
   "001": "Heimurinn",
   "002": "Afríka",

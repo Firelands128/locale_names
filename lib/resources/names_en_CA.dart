@@ -1,3 +1,4 @@
+/// Locale names of English (Canada)
 const names = {
   "BL": "St. Barthélemy",
   "CZ": "Czechia",

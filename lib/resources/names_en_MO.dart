@@ -1,3 +1,4 @@
+/// Locale names of English (Macau SAR China)
 const names = {
   "BL": "St. Barthélemy",
   "CZ": "Czechia",

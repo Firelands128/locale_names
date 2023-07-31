@@ -1,3 +1,4 @@
+/// Locale names of Kinyarwanda
 const names = {
   "AD": "Andorra",
   "AE": "United Arab Emirates",

@@ -1,3 +1,4 @@
+/// Locale names of Tatar
 const names = {
   "AD": "Андорра",
   "AE": "Берләшкән Гарәп Әмирлекләре",

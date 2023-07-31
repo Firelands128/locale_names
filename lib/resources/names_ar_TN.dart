@@ -1,3 +1,4 @@
+/// Locale names of Arabic (Tunisia)
 const names = {
   "ar_001": "العربية الرسمية الحديثة",
   "arn": "الأروكانية",

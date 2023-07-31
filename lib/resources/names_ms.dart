@@ -1,3 +1,4 @@
+/// Locale names of Malay
 const names = {
   "001": "Dunia",
   "002": "Afrika",

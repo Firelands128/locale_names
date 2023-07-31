@@ -1,3 +1,4 @@
+/// Locale names of Kalaallisut (Greenland)
 const names = {
   "AF": "Afghanistan",
   "AG": "Antigua & Barbuda",

@@ -1,3 +1,4 @@
+/// Locale names of Albanian (Macedonia)
 const names = {
   "aa": "Afar",
   "ace": "Achinese",

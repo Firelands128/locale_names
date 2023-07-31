@@ -1,3 +1,4 @@
+/// Locale names of Sinhala
 const names = {
   "001": "ලෝකය",
   "002": "අප්‍රිකාව",

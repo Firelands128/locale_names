@@ -1,3 +1,4 @@
+/// Locale names of Kashmiri (Arabic)
 const names = {
   "AD": "اٮ۪نڑورا",
   "AG": "اٮ۪نٹِگُوا تہٕ باربوڑا",

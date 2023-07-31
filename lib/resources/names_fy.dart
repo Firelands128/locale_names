@@ -1,3 +1,4 @@
+/// Locale names of Western Frisian
 const names = {
   "001": "Wrâld",
   "002": "Afrika",

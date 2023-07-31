@@ -1,3 +1,4 @@
+/// Locale names of Swahili (Kenya)
 const names = {
   "202": "Kusini mwa Jangwa la Sahara",
   "AF": "Afghanistani",

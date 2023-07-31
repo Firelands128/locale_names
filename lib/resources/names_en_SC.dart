@@ -1,3 +1,4 @@
+/// Locale names of English (Seychelles)
 const names = {
   "BL": "St. Barthélemy",
   "CZ": "Czechia",

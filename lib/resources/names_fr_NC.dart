@@ -1,3 +1,4 @@
+/// Locale names of French (New Caledonia)
 const names = {
   "ady": "adyghéen",
   "aeb": "Tunisian Arabic",

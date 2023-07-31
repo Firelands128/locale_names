@@ -1,3 +1,4 @@
+/// Locale names of Hindi (India)
 const names = {
   "arp": "अराफाओ",
   "chr": "शेरोकी",

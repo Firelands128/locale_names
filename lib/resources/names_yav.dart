@@ -1,3 +1,4 @@
+/// Locale names of Yangben
 const names = {
   "AD": "Aŋtúla",
   "AE": "imiláat i paaláap",

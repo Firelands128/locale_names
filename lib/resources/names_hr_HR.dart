@@ -1,3 +1,4 @@
+/// Locale names of Croatian (Croatia)
 const names = {
   "ace": "achinese",
   "ach": "acoli",

@@ -1,3 +1,4 @@
+/// Locale names of Kazakh (Cyrillic)
 const names = {
   "AC": "Ғибадат аралы",
   "AE": "Біріккен Араб Эмираттары",

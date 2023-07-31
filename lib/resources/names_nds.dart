@@ -1,3 +1,4 @@
+/// Locale names of Low German
 const names = {
   "001": "Welt",
   "002": "Afrika",

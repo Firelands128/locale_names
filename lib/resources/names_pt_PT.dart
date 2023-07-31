@@ -1,3 +1,4 @@
+/// Locale names of Portuguese (Portugal)
 const names = {
   "009": "Oceânia",
   "015": "Norte de África",

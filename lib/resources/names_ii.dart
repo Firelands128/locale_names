@@ -1,3 +1,4 @@
+/// Locale names of Sichuan Yi
 const names = {
   "AD": "Andorra",
   "AE": "United Arab Emirates",

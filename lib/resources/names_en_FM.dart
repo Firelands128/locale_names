@@ -1,3 +1,4 @@
+/// Locale names of English (Micronesia)
 const names = {
   "BL": "St. Barthélemy",
   "CZ": "Czechia",

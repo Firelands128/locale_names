@@ -1,3 +1,4 @@
+/// Locale names of Manipuri
 const names = {
   "Arab": "আরবিক",
   "BR": "ব্রাজিল",

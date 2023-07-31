@@ -1,3 +1,4 @@
+/// Locale names of Colognian
 const names = {
   "001": "de Ääd",
   "002": "Affrika",

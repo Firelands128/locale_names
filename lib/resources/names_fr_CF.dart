@@ -1,3 +1,4 @@
+/// Locale names of French (Central African Republic)
 const names = {
   "ady": "adyghéen",
   "aeb": "Tunisian Arabic",

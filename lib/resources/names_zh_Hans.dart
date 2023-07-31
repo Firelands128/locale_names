@@ -1,3 +1,4 @@
+/// Locale names of Chinese (Simplified)
 const names = {
   "CD": "刚果（金）",
   "CG": "刚果（布）",

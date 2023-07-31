@@ -1,3 +1,4 @@
+/// Locale names of Persian
 const names = {
   "001": "جهان",
   "002": "افریقا",

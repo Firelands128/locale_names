@@ -1,3 +1,4 @@
+/// Locale names of Galician (Spain)
 const names = {
   "aa": "Afar",
   "ace": "Achinese",

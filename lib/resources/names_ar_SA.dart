@@ -1,3 +1,4 @@
+/// Locale names of Arabic (Saudi Arabia)
 const names = {
   "AC": "جزيرة أسينشين",
   "EA": "سبتة ومليلية",

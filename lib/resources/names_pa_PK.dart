@@ -1,3 +1,4 @@
+/// Locale names of Punjabi (Pakistan)
 const names = {
   "PK": "پاکستان",
   "aa": "Afar",

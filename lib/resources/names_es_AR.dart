@@ -1,3 +1,4 @@
+/// Locale names of Spanish (Argentina)
 const names = {
   "ady": "adigeo",
   "az": "azerí",

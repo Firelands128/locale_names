@@ -1,3 +1,4 @@
+/// Locale names of Bambara (Latin)
 const names = {
   "AC": "Ascension Island",
   "DG": "Diego Garcia",

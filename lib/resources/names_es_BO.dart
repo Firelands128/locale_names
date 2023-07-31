@@ -1,3 +1,4 @@
+/// Locale names of Spanish (Bolivia)
 const names = {
   "ady": "adigeo",
   "az": "azerí",

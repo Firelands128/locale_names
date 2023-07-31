@@ -1,3 +1,4 @@
+/// Locale names of Sango
 const names = {
   "AD": "Andôro",
   "AE": "Arâbo Emirâti Ôko",

@@ -1,3 +1,4 @@
+/// Locale names of Finnish
 const names = {
   "001": "maailma",
   "002": "Afrikka",

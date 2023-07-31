@@ -1,3 +1,4 @@
+/// Locale names of Korean (North Korea)
 const names = {
   "KP": "조선민주주의인민공화국",
   "ady": "아닥헤어",

@@ -1,3 +1,4 @@
+/// Locale names of Kashmiri
 const names = {
   "001": "دُنیا",
   "002": "اَفریٖکا",

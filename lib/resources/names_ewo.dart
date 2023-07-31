@@ -1,3 +1,4 @@
+/// Locale names of Ewondo
 const names = {
   "AD": "Andór",
   "AE": "Bemirá yá Arábə uní",

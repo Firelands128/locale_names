@@ -1,3 +1,4 @@
+/// Locale names of Czech
 const names = {
   "001": "svět",
   "002": "Afrika",

@@ -1,3 +1,4 @@
+/// Locale names of Dutch (Sint Maarten)
 const names = {
   "ain": "Ainu",
   "gan": "Gan Chinese",

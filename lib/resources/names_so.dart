@@ -1,3 +1,4 @@
+/// Locale names of Somali
 const names = {
   "001": "Dunida",
   "002": "Afrika",

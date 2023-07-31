@@ -1,3 +1,4 @@
+/// Locale names of Kwasio
 const names = {
   "AD": "Andɔ́ra",
   "AE": "Minlambɔ́ Nsaŋ́nsa mí Arabia",

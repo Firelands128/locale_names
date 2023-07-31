@@ -1,3 +1,4 @@
+/// Locale names of Bosnian (Cyrillic)
 const names = {
   "001": "Свијет",
   "002": "Африка",

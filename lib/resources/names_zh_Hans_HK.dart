@@ -1,3 +1,4 @@
+/// Locale names of Chinese (Simplified, Hong Kong SAR China)
 const names = {
   "fr_GP": "法文（瓜德罗普岛）",
   "fr_PM": "法文（圣皮埃尔和密克隆）",

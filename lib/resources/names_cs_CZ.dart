@@ -1,3 +1,4 @@
+/// Locale names of Czech (Czech Republic)
 const names = {
   "bho": "bhojpurština",
   "es_419": "Latin American Spanish",

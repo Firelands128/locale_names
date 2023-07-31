@@ -1,3 +1,4 @@
+/// Locale names of Tibetan
 const names = {
   "001": "འཛམ་གླིང་།",
   "002": "ཨཕྲི་ཀ།",

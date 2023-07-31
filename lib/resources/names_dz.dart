@@ -1,3 +1,4 @@
+/// Locale names of Dzongkha
 const names = {
   "001": "འཛམ་གླིང༌",
   "002": "ཨཕ་རི་ཀ",

@@ -1,3 +1,4 @@
+/// Locale names of Inari Sami
 const names = {
   "AC": "Ascension-suálui",
   "AD": "Andorra",

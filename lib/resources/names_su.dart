@@ -1,3 +1,4 @@
+/// Locale names of Sundanese
 const names = {
   "001": "Dunya",
   "002": "Afrika",

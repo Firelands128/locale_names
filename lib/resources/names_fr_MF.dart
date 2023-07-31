@@ -1,3 +1,4 @@
+/// Locale names of French (St. Martin)
 const names = {
   "ady": "adyghéen",
   "aeb": "Tunisian Arabic",

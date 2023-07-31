@@ -1,3 +1,4 @@
+/// Locale names of Pashto
 const names = {
   "001": "نړۍ",
   "002": "افريقا",

@@ -1,3 +1,4 @@
+/// Locale names of Interlingua
 const names = {
   "001": "Mundo",
   "002": "Africa",

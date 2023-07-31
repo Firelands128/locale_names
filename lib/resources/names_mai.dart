@@ -1,3 +1,4 @@
+/// Locale names of Maithili
 const names = {
   "Arab": "अरबी",
   "BR": "ब्राज़ील",

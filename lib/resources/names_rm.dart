@@ -1,3 +1,4 @@
+/// Locale names of Romansh
 const names = {
   "001": "mund",
   "002": "Africa",

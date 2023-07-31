@@ -1,3 +1,4 @@
+/// Locale names of Persian (Afghanistan)
 const names = {
   "AD": "اندورا",
   "AG": "انتیگوا و باربودا",

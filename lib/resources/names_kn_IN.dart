@@ -1,3 +1,4 @@
+/// Locale names of Kannada (India)
 const names = {
   "ada": "ಅಡಂಗ್‌ಮೆ",
   "bn": "ಬೆಂಗಾಲಿ",

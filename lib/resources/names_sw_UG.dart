@@ -1,3 +1,4 @@
+/// Locale names of Swahili (Uganda)
 const names = {
   "aa": "Afar",
   "ace": "Achinese",

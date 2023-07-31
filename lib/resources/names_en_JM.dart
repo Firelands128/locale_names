@@ -1,3 +1,4 @@
+/// Locale names of English (Jamaica)
 const names = {
   "BL": "St. Barthélemy",
   "CZ": "Czechia",

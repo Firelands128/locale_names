@@ -1,3 +1,4 @@
+/// Locale names of Lithuanian
 const names = {
   "001": "pasaulis",
   "002": "Afrika",

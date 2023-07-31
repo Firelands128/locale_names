@@ -1,3 +1,4 @@
+/// Locale names of Arabic (Libya)
 const names = {
   "EA": "سبتة ومليلية",
   "MS": "مونتيسيرات",

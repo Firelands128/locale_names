@@ -1,3 +1,4 @@
+/// Locale names of Tibetan (China)
 const names = {
   "AD": "Andorra",
   "AE": "United Arab Emirates",

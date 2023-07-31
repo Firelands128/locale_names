@@ -1,3 +1,4 @@
+/// Locale names of Mundang
 const names = {
   "AD": "andorra",
   "AE": "Sǝr Arabiya ma taini",

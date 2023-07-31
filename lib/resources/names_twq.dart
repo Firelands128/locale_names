@@ -1,3 +1,4 @@
+/// Locale names of Tasawaq
 const names = {
   "AD": "Andoora",
   "AE": "Laaraw Imaarawey Margantey",

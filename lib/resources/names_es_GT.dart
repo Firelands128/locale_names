@@ -1,3 +1,4 @@
+/// Locale names of Spanish (Guatemala)
 const names = {
   "ady": "adigeo",
   "az": "azerí",

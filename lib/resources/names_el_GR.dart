@@ -1,3 +1,4 @@
+/// Locale names of Greek (Greece)
 const names = {
   "ace": "Αχινίζ",
   "ale": "Αλούτ",

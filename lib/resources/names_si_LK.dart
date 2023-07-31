@@ -1,3 +1,4 @@
+/// Locale names of Sinhala (Sri Lanka)
 const names = {
   "aa": "Afar",
   "ace": "Achinese",

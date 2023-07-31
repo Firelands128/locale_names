@@ -1,3 +1,4 @@
+/// Locale names of Yiddish
 const names = {
   "001": "וועלט",
   "002": "אַפֿריקע",

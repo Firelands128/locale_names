@@ -1,3 +1,4 @@
+/// Locale names of English (U.S. Virgin Islands)
 const names = {
   "BL": "St. Barthélemy",
   "CZ": "Czechia",

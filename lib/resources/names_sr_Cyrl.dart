@@ -1,3 +1,4 @@
+/// Locale names of Serbian (Cyrillic)
 const names = {
   "aa": "Афарски",
   "ace": "Ачинески",

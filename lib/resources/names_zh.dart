@@ -1,3 +1,4 @@
+/// Locale names of Chinese
 const names = {
   "001": "世界",
   "002": "非洲",

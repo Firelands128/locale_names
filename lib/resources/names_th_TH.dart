@@ -1,3 +1,4 @@
+/// Locale names of Thai (Thailand)
 const names = {
   "ab": "อับคาซ",
   "ak": "อาคัน",

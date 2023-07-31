@@ -1,3 +1,4 @@
+/// Locale names of Hausa (Latin)
 const names = {
   "AC": "Ascension Island",
   "AQ": "Antarctica",

@@ -1,3 +1,4 @@
+/// Locale names of Koyra Chiini
 const names = {
   "AD": "Andoora",
   "AE": "Laaraw Imaarawey Margantey",

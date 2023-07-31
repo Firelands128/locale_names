@@ -1,3 +1,4 @@
+/// Locale names of Prussian
 const names = {
   "001": "swītai",
   "002": "Afrika",

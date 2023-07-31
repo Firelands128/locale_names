@@ -1,3 +1,4 @@
+/// Locale names of Italian (Italy)
 const names = {
   "arn": "araucano",
   "cv": "chuvash",

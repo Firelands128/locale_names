@@ -1,3 +1,4 @@
+/// Locale names of Khmer
 const names = {
   "001": "ពិភពលោក",
   "002": "អាហ្វ្រិក",

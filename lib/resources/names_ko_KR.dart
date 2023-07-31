@@ -1,3 +1,4 @@
+/// Locale names of Korean (South Korea)
 const names = {
   "ady": "아닥헤어",
   "afh": "아프리히리어",

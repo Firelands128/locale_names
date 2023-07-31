@@ -1,3 +1,4 @@
+/// Locale names of Bengali (Bangladesh)
 const names = {
   "af": "আফ্রিকান্স",
   "as": "আসামি",

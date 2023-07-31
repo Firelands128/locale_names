@@ -1,3 +1,4 @@
+/// Locale names of Portuguese (Mozambique)
 const names = {
   "alt": "altai do sul",
   "arn": "araucano",

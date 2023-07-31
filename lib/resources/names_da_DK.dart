@@ -1,3 +1,4 @@
+/// Locale names of Danish (Denmark)
 const names = {
   "arn": "araukansk",
   "bas": "basa",

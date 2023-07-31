@@ -1,3 +1,4 @@
+/// Locale names of Serbo-Croatian (Bosnia & Herzegovina)
 const names = {
   "BY": "Bjelorusija",
   "CG": "Kongo",

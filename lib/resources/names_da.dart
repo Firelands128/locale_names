@@ -1,3 +1,4 @@
+/// Locale names of Danish
 const names = {
   "001": "Verden",
   "002": "Afrika",

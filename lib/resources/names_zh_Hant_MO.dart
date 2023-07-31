@@ -1,3 +1,4 @@
+/// Locale names of Chinese (Traditional, Macau SAR China)
 const names = {
   "061": "波利尼西亞",
   "172": "獨立國家聯合體",

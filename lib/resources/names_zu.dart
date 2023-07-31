@@ -1,3 +1,4 @@
+/// Locale names of Zulu
 const names = {
   "001": "umhlaba",
   "002": "i-Africa",

@@ -1,3 +1,4 @@
+/// Locale names of German (Switzerland)
 const names = {
   "BN": "Brunei",
   "BW": "Botswana",

@@ -1,3 +1,4 @@
+/// Locale names of English (Kiribati)
 const names = {
   "BL": "St. Barthélemy",
   "CZ": "Czechia",

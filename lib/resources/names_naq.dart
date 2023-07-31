@@ -1,3 +1,4 @@
+/// Locale names of Nama
 const names = {
   "AD": "Andorrab",
   "AE": "United Arab Emirates",

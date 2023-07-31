@@ -1,3 +1,4 @@
+/// Locale names of Bengali (India)
 const names = {
   "CD": "কঙ্গো (DRC)",
   "UM": "মার্কিন যুক্তরাষ্ট্রের পার্শ্ববর্তী দ্বীপপুঞ্জ",

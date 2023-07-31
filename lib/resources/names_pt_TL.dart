@@ -1,3 +1,4 @@
+/// Locale names of Portuguese (Timor-Leste)
 const names = {
   "alt": "altai do sul",
   "arn": "araucano",

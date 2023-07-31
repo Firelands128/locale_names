@@ -1,3 +1,4 @@
+/// Locale names of Wolof
 const names = {
   "AD": "Andoor",
   "AE": "Emira Arab Ini",

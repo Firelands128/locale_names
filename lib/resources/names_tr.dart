@@ -1,3 +1,4 @@
+/// Locale names of Turkish
 const names = {
   "001": "Dünya",
   "002": "Afrika",

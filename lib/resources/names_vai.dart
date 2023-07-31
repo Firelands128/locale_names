@@ -1,3 +1,4 @@
+/// Locale names of Vai
 const names = {
   "AC": "ꗻꗡ ꕒꕡꕌ ꗏ ꔳꘋꗣ",
   "AD": "ꕉꖆꕟ",

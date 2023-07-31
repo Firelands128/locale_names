@@ -1,3 +1,4 @@
+/// Locale names of Macedonian (Macedonia)
 const names = {
   "ckb": "сорански курдски",
   "es_419": "Latin American Spanish",

@@ -1,3 +1,4 @@
+/// Locale names of Chinese (Singapore)
 const names = {
   "CD": "刚果（金）",
   "CG": "刚果（布）",

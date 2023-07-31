@@ -1,3 +1,4 @@
+/// Locale names of Sindhi (Devanagari)
 const names = {
   "Arab": "अरेबिक",
   "BR": "ब्राजील",

@@ -1,3 +1,4 @@
+/// Locale names of Congo Swahili
 const names = {
   "AD": "Andora",
   "AE": "Falme za Kiarabu",

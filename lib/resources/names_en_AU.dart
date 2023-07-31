@@ -1,3 +1,4 @@
+/// Locale names of English (Australia)
 const names = {
   "BL": "St. Barthélemy",
   "Beng": "Bengali",

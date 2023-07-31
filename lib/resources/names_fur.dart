@@ -1,3 +1,4 @@
+/// Locale names of Friulian
 const names = {
   "001": "Mont",
   "002": "Afriche",

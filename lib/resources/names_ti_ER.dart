@@ -1,3 +1,4 @@
+/// Locale names of Tigrinya (Eritrea)
 const names = {
   "en_GB": "English (United Kingdom)",
   "en_US": "English (United States)",

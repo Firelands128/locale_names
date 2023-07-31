@@ -1,3 +1,4 @@
+/// Locale names of English (Marshall Islands)
 const names = {
   "BL": "St. Barthélemy",
   "CZ": "Czechia",

@@ -1,3 +1,4 @@
+/// Locale names of Spanish (Panama)
 const names = {
   "ady": "adigeo",
   "az": "azerí",

@@ -1,3 +1,4 @@
+/// Locale names of English (Trinidad & Tobago)
 const names = {
   "BL": "St. Barthélemy",
   "CZ": "Czechia",

@@ -1,3 +1,4 @@
+/// Locale names of Portuguese (Angola)
 const names = {
   "alt": "altai do sul",
   "arn": "araucano",

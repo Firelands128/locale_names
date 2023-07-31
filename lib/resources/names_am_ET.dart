@@ -1,3 +1,4 @@
+/// Locale names of Amharic (Ethiopia)
 const names = {
   "ace": "Achinese",
   "ada": "Adangme",

@@ -1,3 +1,4 @@
+/// Locale names of Cornish
 const names = {
   "001": "An Bys",
   "002": "Afrika",

@@ -1,3 +1,4 @@
+/// Locale names of English
 const names = {
   "001": "World",
   "002": "Africa",

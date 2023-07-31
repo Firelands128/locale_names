@@ -1,3 +1,4 @@
+/// Locale names of English (Diego Garcia)
 const names = {
   "BL": "St. Barthélemy",
   "CZ": "Czechia",

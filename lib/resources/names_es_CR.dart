@@ -1,3 +1,4 @@
+/// Locale names of Spanish (Costa Rica)
 const names = {
   "ady": "adigeo",
   "az": "azerí",

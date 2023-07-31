@@ -1,3 +1,4 @@
+/// Locale names of Spanish
 const names = {
   "001": "Mundo",
   "002": "África",

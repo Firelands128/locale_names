@@ -1,3 +1,4 @@
+/// Locale names of Uzbek (Latin)
 const names = {
   "AF": "Afgʼoniston",
   "Cyrl": "Kiril",

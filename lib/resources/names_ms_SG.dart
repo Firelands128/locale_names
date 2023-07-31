@@ -1,3 +1,4 @@
+/// Locale names of Malay (Singapore)
 const names = {
   "ace": "Achinese",
   "an": "Aragonese",

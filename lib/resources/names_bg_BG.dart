@@ -1,3 +1,4 @@
+/// Locale names of Bulgarian (Bulgaria)
 const names = {
   "aa": "афар",
   "ace": "ачински",

@@ -1,3 +1,4 @@
+/// Locale names of Maori
 const names = {
   "001": "Ao",
   "002": "Awherika",

@@ -1,3 +1,4 @@
+/// Locale names of Jola-Fonyi
 const names = {
   "AD": "Andorra",
   "AF": "Afganistan",

@@ -1,3 +1,4 @@
+/// Locale names of Spanish (Paraguay)
 const names = {
   "ady": "adigeo",
   "az": "azerí",

@@ -1,3 +1,4 @@
+/// Locale names of English (Hong Kong SAR China)
 const names = {
   "BL": "St. Barthélemy",
   "CZ": "Czechia",

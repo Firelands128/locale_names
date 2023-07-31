@@ -1,3 +1,4 @@
+/// Locale names of Marathi (India)
 const names = {
   "akk": "अक्कादिआन",
   "arp": "अराफाओ",

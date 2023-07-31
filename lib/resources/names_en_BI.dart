@@ -1,3 +1,4 @@
+/// Locale names of English (Burundi)
 const names = {
   "BL": "St. Barthélemy",
   "CZ": "Czechia",

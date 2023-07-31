@@ -1,3 +1,4 @@
+/// Locale names of Arabic (United Arab Emirates)
 const names = {
   "TL": "التيمور الشرقية",
   "ar_001": "العربية الرسمية الحديثة",

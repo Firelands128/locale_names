@@ -1,3 +1,4 @@
+/// Locale names of Estonian (Estonia)
 const names = {
   "ach": "akoli",
   "aeb": "Tunisian Arabic",

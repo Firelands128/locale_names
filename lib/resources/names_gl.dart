@@ -1,3 +1,4 @@
+/// Locale names of Galician
 const names = {
   "001": "Mundo",
   "002": "África",

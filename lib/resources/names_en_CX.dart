@@ -1,3 +1,4 @@
+/// Locale names of English (Christmas Island)
 const names = {
   "BL": "St. Barthélemy",
   "CZ": "Czechia",

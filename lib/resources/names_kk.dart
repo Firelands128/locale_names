@@ -1,3 +1,4 @@
+/// Locale names of Kazakh
 const names = {
   "001": "Әлем",
   "002": "Африка",

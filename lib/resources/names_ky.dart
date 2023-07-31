@@ -1,3 +1,4 @@
+/// Locale names of Kyrgyz
 const names = {
   "001": "Дүйнө",
   "002": "Африка",

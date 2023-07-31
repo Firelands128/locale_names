@@ -1,3 +1,4 @@
+/// Locale names of Yoruba (Benin)
 const names = {
   "003": "Àríwá Amɛ́ríkà",
   "005": "Gúúshù Amɛ́ríkà",

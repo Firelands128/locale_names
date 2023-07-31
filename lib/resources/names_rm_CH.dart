@@ -1,3 +1,4 @@
+/// Locale names of Romansh (Switzerland)
 const names = {
   "SS": "South Sudan",
   "zh_Hans": "chinais (scrittira chinaisa simplifitgada)",

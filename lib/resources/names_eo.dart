@@ -1,3 +1,4 @@
+/// Locale names of Esperanto
 const names = {
   "001": "Mondo",
   "002": "Afriko",

@@ -1,3 +1,4 @@
+/// Locale names of Somali (Ethiopia)
 const names = {
   "CO": "Colombia",
   "af": "Afrikaans",

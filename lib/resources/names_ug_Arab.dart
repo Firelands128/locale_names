@@ -1,3 +1,4 @@
+/// Locale names of Uyghur (Arabic)
 const names = {
   "AG": "ئانتىگۋا ۋە باربۇدا",
   "AS": "ئامېرىكا تەۋەلىكىدىكى ساموئا",

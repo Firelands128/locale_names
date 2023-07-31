@@ -1,3 +1,4 @@
+/// Locale names of Spanish (Equatorial Guinea)
 const names = {
   "ady": "adigeo",
   "az": "azerí",

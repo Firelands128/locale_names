@@ -1,3 +1,4 @@
+/// Locale names of Spanish (Canary Islands)
 const names = {
   "MK": "Macedonia",
   "XA": "Pseudo-Accents",

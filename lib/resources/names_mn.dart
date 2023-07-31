@@ -1,3 +1,4 @@
+/// Locale names of Mongolian
 const names = {
   "001": "Дэлхий",
   "002": "Африк",

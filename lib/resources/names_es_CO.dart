@@ -1,3 +1,4 @@
+/// Locale names of Spanish (Colombia)
 const names = {
   "ady": "adigeo",
   "az": "azerí",

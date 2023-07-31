@@ -1,3 +1,4 @@
+/// Locale names of Standard Moroccan Tamazight
 const names = {
   "AD": "ⴰⵏⴷⵓⵔⴰ",
   "AE": "ⵍⵉⵎⴰⵔⴰⵜ",

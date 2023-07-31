@@ -1,3 +1,4 @@
+/// Locale names of French (Canada)
 const names = {
   "030": "Asie orientale",
   "039": "Europe méridionale",

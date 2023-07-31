@@ -1,3 +1,4 @@
+/// Locale names of Hebrew (Israel)
 const names = {
   "ach": "אקולי",
   "aeb": "Tunisian Arabic",

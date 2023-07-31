@@ -1,3 +1,4 @@
+/// Locale names of English (American Samoa)
 const names = {
   "BL": "St. Barthélemy",
   "CZ": "Czechia",

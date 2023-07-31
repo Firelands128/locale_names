@@ -1,3 +1,4 @@
+/// Locale names of Hindi
 const names = {
   "001": "विश्व",
   "002": "अफ़्रीका",

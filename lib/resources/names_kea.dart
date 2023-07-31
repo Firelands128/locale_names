@@ -1,3 +1,4 @@
+/// Locale names of Kabuverdianu
 const names = {
   "001": "Mundu",
   "002": "Áfrika",

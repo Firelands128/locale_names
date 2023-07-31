@@ -1,3 +1,4 @@
+/// Locale names of Serbian (Latin, Kosovo)
 const names = {
   "CG": "Kongo",
   "CV": "Kabo Verde",

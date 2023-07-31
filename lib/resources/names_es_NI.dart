@@ -1,3 +1,4 @@
+/// Locale names of Spanish (Nicaragua)
 const names = {
   "ady": "adigeo",
   "az": "azerí",

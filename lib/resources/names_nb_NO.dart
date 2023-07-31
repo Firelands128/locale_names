@@ -1,3 +1,4 @@
+/// Locale names of Norwegian Bokmål (Norway)
 const names = {
   "ady": "adyghe",
   "aeb": "Tunisian Arabic",

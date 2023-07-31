@@ -1,3 +1,4 @@
+/// Locale names of Lithuanian (Lithuania)
 const names = {
   "ban": "balinezų",
   "bla": "siksika",

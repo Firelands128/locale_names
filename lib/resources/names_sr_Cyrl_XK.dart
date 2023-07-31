@@ -1,3 +1,4 @@
+/// Locale names of Serbian (Cyrillic, Kosovo)
 const names = {
   "AC": "Острво Асенсион",
   "CG": "Конго",

@@ -1,3 +1,4 @@
+/// Locale names of Urdu (India)
 const names = {
   "AC": "جزیرہ اسینشن",
   "AX": "جزائر آلینڈ",

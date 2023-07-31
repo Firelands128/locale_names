@@ -1,3 +1,4 @@
+/// Locale names of French (Seychelles)
 const names = {
   "ady": "adyghéen",
   "aeb": "Tunisian Arabic",

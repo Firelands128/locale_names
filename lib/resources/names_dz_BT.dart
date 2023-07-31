@@ -1,3 +1,4 @@
+/// Locale names of Dzongkha (Bhutan)
 const names = {
   "egy": "Ancient Egyptian",
   "grc": "Ancient Greek",

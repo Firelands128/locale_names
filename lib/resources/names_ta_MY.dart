@@ -1,3 +1,4 @@
+/// Locale names of Tamil (Malaysia)
 const names = {
   "ar_001": "மாடர்ன் ஸ்டாண்டர்ட் அரபிக்",
   "arn": "மபுசே",

@@ -1,3 +1,4 @@
+/// Locale names of Central Atlas Tamazight
 const names = {
   "AD": "Anḍurra",
   "AE": "Imarat Tiεrabin Tidduklin",

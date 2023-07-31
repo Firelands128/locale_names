@@ -1,3 +1,4 @@
+/// Locale names of Ossetic
 const names = {
   "001": "Дуне",
   "002": "Африкӕ",

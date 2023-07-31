@@ -1,3 +1,4 @@
+/// Locale names of Cornish (United Kingdom)
 const names = {
   "BR": "Brazil",
   "DE": "Germany",

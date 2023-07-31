@@ -1,3 +1,4 @@
+/// Locale names of Quechua
 const names = {
   "AC": "Islas Ascensión",
   "AD": "Andorra",

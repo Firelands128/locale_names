@@ -1,3 +1,4 @@
+/// Locale names of Hawaiian
 const names = {
   "AU": "Nūhōlani",
   "CA": "Kanakā",

@@ -1,3 +1,4 @@
+/// Locale names of Spanish (El Salvador)
 const names = {
   "ady": "adigeo",
   "az": "azerí",

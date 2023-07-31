@@ -1,3 +1,4 @@
+/// Locale names of Assamese (India)
 const names = {
   "aa": "Afar",
   "ab": "Abkhazian",

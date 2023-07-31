@@ -1,3 +1,4 @@
+/// Locale names of Afghanistan
 const names = {
   "001": "Wêreld",
   "002": "Afrika",

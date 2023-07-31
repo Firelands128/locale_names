@@ -1,3 +1,4 @@
+/// Locale names of Armenian
 const names = {
   "001": "Աշխարհ",
   "002": "Աֆրիկա",

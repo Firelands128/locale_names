@@ -1,3 +1,4 @@
+/// Locale names of Spanish (Ecuador)
 const names = {
   "ady": "adigeo",
   "az": "azerí",

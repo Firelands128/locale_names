@@ -1,3 +1,4 @@
+/// Locale names of Bulgarian
 const names = {
   "001": "свят",
   "002": "Африка",

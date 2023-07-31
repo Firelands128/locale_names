@@ -1,3 +1,4 @@
+/// Locale names of Mazanderani
 const names = {
   "001": "جهون",
   "002": "آفریقا",

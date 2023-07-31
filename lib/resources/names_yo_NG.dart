@@ -1,3 +1,4 @@
+/// Locale names of Yoruba (Nigeria)
 const names = {
   "AQ": "Antarctica",
   "AX": "Åland Islands",

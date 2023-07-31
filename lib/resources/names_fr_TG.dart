@@ -1,3 +1,4 @@
+/// Locale names of French (Togo)
 const names = {
   "ady": "adyghéen",
   "aeb": "Tunisian Arabic",

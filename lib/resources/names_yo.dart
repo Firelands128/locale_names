@@ -1,3 +1,4 @@
+/// Locale names of Yoruba
 const names = {
   "001": "Agbáyé",
   "002": "Áfíríkà",

@@ -1,3 +1,4 @@
+/// Locale names of Punjabi (India)
 const names = {
   "aa": "Afar",
   "ada": "Adangme",

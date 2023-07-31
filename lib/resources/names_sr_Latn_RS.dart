@@ -1,3 +1,4 @@
+/// Locale names of Serbian (Latin, Serbia)
 const names = {
   "aa": "Afarski",
   "ace": "Ačineski",

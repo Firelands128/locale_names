@@ -1,3 +1,4 @@
+/// Locale names of Uzbek (Cyrillic)
 const names = {
   "001": "Дунё",
   "002": "Африка",

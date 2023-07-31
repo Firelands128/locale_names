@@ -1,3 +1,4 @@
+/// Locale names of Bosnian (Bosnia & Herzegovina)
 const names = {
   "ab": "abhazijski",
   "ace": "ačineski",

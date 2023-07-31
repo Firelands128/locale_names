@@ -1,3 +1,4 @@
+/// Locale names of Bambara
 const names = {
   "AD": "Andɔr",
   "AE": "Arabu mara kafoli",

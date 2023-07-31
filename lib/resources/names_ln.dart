@@ -1,3 +1,4 @@
+/// Locale names of Lingala
 const names = {
   "001": "Mabelé",
   "002": "Afríka",

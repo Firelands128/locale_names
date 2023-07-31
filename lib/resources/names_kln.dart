@@ -1,3 +1,4 @@
+/// Locale names of Kalenjin
 const names = {
   "AD": "Emetab Andorra",
   "AE": "Emetab kibagenge nebo arabuk",

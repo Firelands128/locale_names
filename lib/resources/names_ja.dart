@@ -1,3 +1,4 @@
+/// Locale names of Japanese
 const names = {
   "001": "世界",
   "002": "アフリカ",

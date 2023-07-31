@@ -1,3 +1,4 @@
+/// Locale names of Koyraboro Senni
 const names = {
   "AD": "Andoora",
   "AE": "Laaraw Imaarawey Margantey",

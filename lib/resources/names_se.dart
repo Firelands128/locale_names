@@ -1,3 +1,4 @@
+/// Locale names of Northern Sami
 const names = {
   "001": "máilbmi",
   "002": "Afrihkká",

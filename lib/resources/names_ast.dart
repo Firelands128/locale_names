@@ -1,3 +1,4 @@
+/// Locale names of Asturian
 const names = {
   "001": "Mundu",
   "002": "África",

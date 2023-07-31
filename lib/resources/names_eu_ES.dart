@@ -1,3 +1,4 @@
+/// Locale names of Basque (Spain)
 const names = {
   "aa": "Afar",
   "ab": "abkhazera",

@@ -1,3 +1,4 @@
+/// Locale names of Spanish (Philippines)
 const names = {
   "ady": "adigeo",
   "az": "azerí",

@@ -1,3 +1,4 @@
+/// Locale names of Malay (Brunei)
 const names = {
   "ace": "Achinese",
   "an": "Aragonese",

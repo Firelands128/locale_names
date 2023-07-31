@@ -1,3 +1,4 @@
+/// Locale names of Urdu (Pakistan)
 const names = {
   "aa": "Afar",
   "ace": "Achinese",

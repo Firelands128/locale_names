@@ -1,3 +1,4 @@
+/// Locale names of Spanish (Mexico)
 const names = {
   "011": "África Occidental",
   "014": "África Oriental",

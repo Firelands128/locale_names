@@ -1,3 +1,4 @@
+/// Locale names of Estonian
 const names = {
   "001": "maailm",
   "002": "Aafrika",

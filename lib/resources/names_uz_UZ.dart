@@ -1,3 +1,4 @@
+/// Locale names of Uzbek (Uzbekistan)
 const names = {
   "aa": "Afar",
   "ab": "abxazcha",

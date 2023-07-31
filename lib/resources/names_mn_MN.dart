@@ -1,3 +1,4 @@
+/// Locale names of Mongolian (Mongolia)
 const names = {
   "aa": "Afar",
   "ace": "Achinese",

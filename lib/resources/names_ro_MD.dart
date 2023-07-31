@@ -1,3 +1,4 @@
+/// Locale names of Romanian (Moldova)
 const names = {
   "MM": "Myanmar",
   "be": "bielorusă",

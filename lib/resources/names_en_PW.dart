@@ -1,3 +1,4 @@
+/// Locale names of English (Palau)
 const names = {
   "BL": "St. Barthélemy",
   "CZ": "Czechia",

@@ -1,3 +1,4 @@
+/// Locale names of Uzbek (Arabic)
 const names = {
   "AF": "افغانستان",
   "Arab": "عربی",

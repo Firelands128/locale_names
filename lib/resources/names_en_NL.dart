@@ -1,3 +1,4 @@
+/// Locale names of English (Netherlands)
 const names = {
   "BL": "St. Barthélemy",
   "CZ": "Czechia",

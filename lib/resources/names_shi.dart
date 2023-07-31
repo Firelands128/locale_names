@@ -1,3 +1,4 @@
+/// Locale names of Shilha
 const names = {
   "AD": "ⴰⵏⴷⵓⵔⴰ",
   "AE": "ⵍⵉⵎⴰⵔⴰⵜ",

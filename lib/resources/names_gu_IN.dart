@@ -1,3 +1,4 @@
+/// Locale names of Gujarati (India)
 const names = {
   "arc": "અર્માઇક",
   "arn": "એરોકૈનિયન",

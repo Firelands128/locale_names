@@ -1,3 +1,4 @@
+/// Locale names of Spanish (United States)
 const names = {
   "GB": "RU",
   "Telu": "telegu",

@@ -1,3 +1,4 @@
+/// Locale names of Rundi
 const names = {
   "AD": "Andora",
   "AE": "Leta Zunze Ubumwe z’Abarabu",

@@ -1,3 +1,4 @@
+/// Locale names of Serbian (Montenegro)
 const names = {
   "AD": "Andora",
   "AE": "Ujedinjeni Arapski Emirati",

@@ -1,3 +1,4 @@
+/// Locale names of English (Sierra Leone)
 const names = {
   "BL": "St. Barthélemy",
   "CZ": "Czechia",

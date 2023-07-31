@@ -1,3 +1,4 @@
+/// Locale names of Swahili
 const names = {
   "001": "Dunia",
   "002": "Afrika",

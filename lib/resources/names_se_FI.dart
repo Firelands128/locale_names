@@ -1,3 +1,4 @@
+/// Locale names of Northern Sami (Finland)
 const names = {
   "001": "Máilbmi",
   "002": "Afrihka",

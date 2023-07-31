@@ -1,3 +1,4 @@
+/// Locale names of Turkish (Cyprus)
 const names = {
   "ace": "Achinese",
   "ale": "Aleut",

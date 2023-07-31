@@ -1,3 +1,4 @@
+/// Locale names of Breton (France)
 const names = {
   "anp": "Angika",
   "aro": "Araona",

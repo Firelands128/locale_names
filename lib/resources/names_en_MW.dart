@@ -1,3 +1,4 @@
+/// Locale names of English (Malawi)
 const names = {
   "BL": "St. Barthélemy",
   "CZ": "Czechia",

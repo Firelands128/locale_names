@@ -1,3 +1,4 @@
+/// Locale names of Slovenian (Slovenia)
 const names = {
   "dzg": "Dazaga",
   "frc": "Cajun French",

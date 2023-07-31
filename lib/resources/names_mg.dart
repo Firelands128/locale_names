@@ -1,3 +1,4 @@
+/// Locale names of Malagasy
 const names = {
   "001": "izao tontolo izao",
   "002": "afrika",

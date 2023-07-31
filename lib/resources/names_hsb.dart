@@ -1,3 +1,4 @@
+/// Locale names of Upper Sorbian
 const names = {
   "001": "swět",
   "002": "Afrika",

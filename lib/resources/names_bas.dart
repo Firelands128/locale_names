@@ -1,3 +1,4 @@
+/// Locale names of Basaa
 const names = {
   "AD": "Àŋdɔ̂r",
   "AE": "Àdnà i Bilɔ̀ŋ bi Arābìà",

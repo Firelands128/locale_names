@@ -1,3 +1,4 @@
+/// Locale names of Tongan
 const names = {
   "001": "Māmani",
   "002": "ʻAfilika",

@@ -1,3 +1,4 @@
+/// Locale names of English (India)
 const names = {
   "BL": "St. Barthélemy",
   "Beng": "Bengali",

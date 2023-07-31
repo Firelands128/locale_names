@@ -1,3 +1,4 @@
+/// Locale names of English (United Arab Emirates)
 const names = {
   "BL": "St. Barthélemy",
   "CZ": "Czechia",

@@ -1,3 +1,4 @@
+/// Locale names of Albanian
 const names = {
   "001": "Bota",
   "002": "Afrikë",

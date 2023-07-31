@@ -1,3 +1,4 @@
+/// Locale names of Spanish (Dominican Republic)
 const names = {
   "ady": "adigeo",
   "az": "azerí",

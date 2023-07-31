@@ -1,3 +1,4 @@
+/// Locale names of Javanese
 const names = {
   "001": "Donya",
   "002": "Afrika",

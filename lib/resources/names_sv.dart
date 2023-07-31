@@ -1,3 +1,4 @@
+/// Locale names of Swedish
 const names = {
   "001": "världen",
   "002": "Afrika",

@@ -1,3 +1,4 @@
+/// Locale names of Chinese (Traditional, Taiwan)
 const names = {
   "AU": "澳洲",
   "AW": "荷屬阿魯巴",

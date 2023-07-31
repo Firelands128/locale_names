@@ -1,3 +1,4 @@
+/// Locale names of French (Niger)
 const names = {
   "ady": "adyghéen",
   "aeb": "Tunisian Arabic",

@@ -1,3 +1,4 @@
+/// Locale names of Telugu (India)
 const names = {
   "aeb": "Tunisian Arabic",
   "ang": "ప్రాచీన ఆగ్లం",

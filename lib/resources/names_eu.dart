@@ -1,3 +1,4 @@
+/// Locale names of Basque
 const names = {
   "001": "Mundua",
   "002": "Afrika",

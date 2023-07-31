@@ -1,3 +1,4 @@
+/// Locale names of Serbo-Croatian
 const names = {
   "AD": "Andora",
   "AE": "Ujedinjeni Arapski Emirati",

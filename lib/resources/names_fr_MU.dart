@@ -1,3 +1,4 @@
+/// Locale names of French (Mauritius)
 const names = {
   "ady": "adyghéen",
   "aeb": "Tunisian Arabic",

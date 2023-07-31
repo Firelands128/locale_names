@@ -1,3 +1,4 @@
+/// Locale names of Georgian
 const names = {
   "001": "მსოფლიო",
   "002": "აფრიკა",

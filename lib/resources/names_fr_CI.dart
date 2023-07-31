@@ -1,3 +1,4 @@
+/// Locale names of French (Côte d’Ivoire)
 const names = {
   "ady": "adyghéen",
   "aeb": "Tunisian Arabic",

@@ -1,3 +1,4 @@
+/// Locale names of Lao (Laos)
 const names = {
   "aeb": "Tunisian Arabic",
   "arq": "Algerian Arabic",

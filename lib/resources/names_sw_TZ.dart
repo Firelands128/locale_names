@@ -1,3 +1,4 @@
+/// Locale names of Swahili (Tanzania)
 const names = {
   "aa": "Afar",
   "ace": "Achinese",

@@ -1,3 +1,4 @@
+/// Locale names of Spanish (Venezuela)
 const names = {
   "ady": "adigeo",
   "az": "azerí",

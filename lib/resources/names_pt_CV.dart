@@ -1,3 +1,4 @@
+/// Locale names of Portuguese (Cape Verde)
 const names = {
   "alt": "altai do sul",
   "arn": "araucano",

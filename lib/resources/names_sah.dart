@@ -1,3 +1,4 @@
+/// Locale names of Sakha
 const names = {
   "001": "Аан дойду",
   "002": "Аапырыка",

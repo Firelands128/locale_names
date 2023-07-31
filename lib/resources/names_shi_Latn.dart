@@ -1,3 +1,4 @@
+/// Locale names of Shilha (Latin)
 const names = {
   "AD": "andura",
   "AE": "limarat",

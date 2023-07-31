@@ -1,3 +1,4 @@
+/// Locale names of Assamese
 const names = {
   "001": "বিশ্ব",
   "002": "আফ্ৰিকা",

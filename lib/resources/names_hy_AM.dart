@@ -1,3 +1,4 @@
+/// Locale names of Armenian (Armenia)
 const names = {
   "aa": "Afar",
   "ace": "Achinese",

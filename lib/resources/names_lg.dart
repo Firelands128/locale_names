@@ -1,3 +1,4 @@
+/// Locale names of Ganda
 const names = {
   "AD": "Andora",
   "AE": "Emireeti",

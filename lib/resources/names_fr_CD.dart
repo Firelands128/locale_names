@@ -1,3 +1,4 @@
+/// Locale names of French (Congo - Kinshasa)
 const names = {
   "ady": "adyghéen",
   "aeb": "Tunisian Arabic",

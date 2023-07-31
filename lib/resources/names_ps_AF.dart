@@ -1,3 +1,4 @@
+/// Locale names of Pashto (Afghanistan)
 const names = {
   "aa": "Afar",
   "ab": "Abkhazian",

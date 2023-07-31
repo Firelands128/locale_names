@@ -1,3 +1,4 @@
+/// Locale names of Kurdish
 const names = {
   "001": "Cîhan",
   "002": "Afrîka",

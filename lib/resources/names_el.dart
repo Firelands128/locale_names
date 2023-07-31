@@ -1,3 +1,4 @@
+/// Locale names of Greek
 const names = {
   "001": "Κόσμος",
   "002": "Αφρική",

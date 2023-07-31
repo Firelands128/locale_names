@@ -1,3 +1,4 @@
+/// Locale names of French (St. Pierre & Miquelon)
 const names = {
   "ady": "adyghéen",
   "aeb": "Tunisian Arabic",

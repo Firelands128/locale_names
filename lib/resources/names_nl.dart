@@ -1,3 +1,4 @@
+/// Locale names of Dutch
 const names = {
   "001": "wereld",
   "002": "Afrika",

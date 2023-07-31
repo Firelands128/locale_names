@@ -1,3 +1,4 @@
+/// Locale names of Sindhi
 const names = {
   "001": "دنيا",
   "002": "آفريڪا",

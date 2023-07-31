@@ -1,3 +1,4 @@
+/// Locale names of Southern Sotho
 const names = {
   "001": "Lefatše",
   "002": "Afrika",

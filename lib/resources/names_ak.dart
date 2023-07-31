@@ -1,3 +1,4 @@
+/// Locale names of Akan
 const names = {
   "AD": "Andora",
   "AE": "United Arab Emirates",

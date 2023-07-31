@@ -1,3 +1,4 @@
+/// Locale names of Sangu
 const names = {
   "AD": "Andola",
   "AE": "Wutwa wa shiyalabu",

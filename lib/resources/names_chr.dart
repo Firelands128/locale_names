@@ -1,3 +1,4 @@
+/// Locale names of Cherokee
 const names = {
   "001": "ᎡᎶᎯ",
   "002": "ᎬᎿᎨᏍᏛ",

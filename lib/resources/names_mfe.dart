@@ -1,3 +1,4 @@
+/// Locale names of Morisyen
 const names = {
   "AD": "Andor",
   "AE": "Emira arab ini",

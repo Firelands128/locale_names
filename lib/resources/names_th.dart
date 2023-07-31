@@ -1,3 +1,4 @@
+/// Locale names of Thai
 const names = {
   "001": "โลก",
   "002": "แอฟริกา",

@@ -1,3 +1,4 @@
+/// Locale names of Faroese
 const names = {
   "001": "heimur",
   "002": "Afrika",

@@ -1,3 +1,4 @@
+/// Locale names of English (British Indian Ocean Territory)
 const names = {
   "BL": "St. Barthélemy",
   "CZ": "Czechia",

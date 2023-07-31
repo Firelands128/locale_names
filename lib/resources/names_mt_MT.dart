@@ -1,3 +1,4 @@
+/// Locale names of Maltese (Malta)
 const names = {
   "alt": "Southern Altai",
   "an": "Aragonese",

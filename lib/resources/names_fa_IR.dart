@@ -1,3 +1,4 @@
+/// Locale names of Persian (Iran)
 const names = {
   "ast": "Asturian",
   "awa": "Awadhi",

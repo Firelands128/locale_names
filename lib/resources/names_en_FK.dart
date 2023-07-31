@@ -1,3 +1,4 @@
+/// Locale names of English (Falkland Islands)
 const names = {
   "BL": "St. Barthélemy",
   "CZ": "Czechia",

@@ -1,3 +1,4 @@
+/// Locale names of Marathi
 const names = {
   "001": "विश्व",
   "002": "आफ्रिका",

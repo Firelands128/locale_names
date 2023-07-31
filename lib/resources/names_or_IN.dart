@@ -1,3 +1,4 @@
+/// Locale names of Oriya (India)
 const names = {
   "af": "ଆଫ୍ରିକାନସ୍",
   "agq": "Aghem",

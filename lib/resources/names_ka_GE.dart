@@ -1,3 +1,4 @@
+/// Locale names of Georgian (Georgia)
 const names = {
   "av": "Avaric",
   "bi": "Bislama",

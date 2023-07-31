@@ -1,3 +1,4 @@
+/// Locale names of German (Austria)
 const names = {
   "SJ": "Svalbard und Jan Mayen",
   "ar_001": "modernes Hocharabisch",

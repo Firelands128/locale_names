@@ -1,3 +1,4 @@
+/// Locale names of English (St. Vincent & Grenadines)
 const names = {
   "BL": "St. Barthélemy",
   "CZ": "Czechia",

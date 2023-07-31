@@ -1,3 +1,4 @@
+/// Locale names of Portuguese (Brazil)
 const names = {
   "alt": "altai do sul",
   "arn": "araucano",

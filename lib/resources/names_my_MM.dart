@@ -1,3 +1,4 @@
+/// Locale names of Burmese (Myanmar (Burma))
 const names = {
   "aa": "Afar",
   "ab": "အက်ခါဇူအနျ",

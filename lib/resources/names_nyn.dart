@@ -1,3 +1,4 @@
+/// Locale names of Nyankole
 const names = {
   "AD": "Andora",
   "AE": "Amahanga ga Buharabu ageeteereine",

@@ -1,3 +1,4 @@
+/// Locale names of Arabic
 const names = {
   "001": "العالم",
   "002": "أفريقيا",

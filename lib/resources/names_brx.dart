@@ -1,3 +1,4 @@
+/// Locale names of Bodo
 const names = {
   "001": "दुनिया",
   "002": "अफ्रीका",

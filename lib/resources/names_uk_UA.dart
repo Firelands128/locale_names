@@ -1,3 +1,4 @@
+/// Locale names of Ukrainian (Ukraine)
 const names = {
   "akz": "Alabama",
   "aro": "Araona",

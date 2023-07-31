@@ -1,3 +1,4 @@
+/// Locale names of Chiga
 const names = {
   "AD": "Andora",
   "AE": "Amahanga ga Buharabu ageeteereine",

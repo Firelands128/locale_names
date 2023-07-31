@@ -1,3 +1,4 @@
+/// Locale names of Catalan (Spain)
 const names = {
   "Bali": "balinés",
   "Bugi": "buginés",

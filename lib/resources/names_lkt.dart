@@ -1,3 +1,4 @@
+/// Locale names of Lakota
 const names = {
   "001": "Makȟásitomni",
   "002": "Hásapa Makȟáwita",

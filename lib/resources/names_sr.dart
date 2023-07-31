@@ -1,3 +1,4 @@
+/// Locale names of Serbian
 const names = {
   "001": "свет",
   "002": "Африка",

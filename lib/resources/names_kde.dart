@@ -1,3 +1,4 @@
+/// Locale names of Makonde
 const names = {
   "AD": "Andola",
   "AE": "Dimiliki dya Vakulungwa va Chalabu",

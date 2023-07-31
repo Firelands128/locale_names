@@ -1,3 +1,4 @@
+/// Locale names of Icelandic (Iceland)
 const names = {
   "aa": "Afar",
   "ain": "Ainu",

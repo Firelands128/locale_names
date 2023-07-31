@@ -1,3 +1,4 @@
+/// Locale names of Tajik
 const names = {
   "AC": "Асунсон",
   "AD": "Андорра",

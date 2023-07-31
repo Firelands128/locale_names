@@ -1,3 +1,4 @@
+/// Locale names of Kalaallisut
 const names = {
   "001": "silarsuaq",
   "002": "Afrika",

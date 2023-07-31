@@ -1,3 +1,4 @@
+/// Locale names of Lao
 const names = {
   "001": "ໂລກ",
   "002": "ອາຟຣິກາ",

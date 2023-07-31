@@ -1,3 +1,4 @@
+/// Locale names of Azerbaijani (Cyrillic)
 const names = {
   "001": "Дүнја",
   "002": "Африка",

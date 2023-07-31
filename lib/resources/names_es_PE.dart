@@ -1,3 +1,4 @@
+/// Locale names of Spanish (Peru)
 const names = {
   "ady": "adigeo",
   "az": "azerí",

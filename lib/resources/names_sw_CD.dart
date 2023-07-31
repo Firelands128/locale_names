@@ -1,3 +1,4 @@
+/// Locale names of Congo Swahili
 const names = {
   "030": "Asia Mashariki",
   "AF": "Afuganistani",

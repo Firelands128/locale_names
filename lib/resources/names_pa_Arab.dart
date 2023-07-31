@@ -1,3 +1,4 @@
+/// Locale names of Punjabi (Arabic)
 const names = {
   "Arab": "عربی",
   "Aran": "نستعلیق",

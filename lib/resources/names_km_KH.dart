@@ -1,3 +1,4 @@
+/// Locale names of Khmer (Cambodia)
 const names = {
   "aa": "ភាសាអាហ្វារ",
   "ace": "Achinese",

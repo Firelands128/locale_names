@@ -1,3 +1,4 @@
+/// Locale names of Chinese (Simplified, Singapore)
 const names = {
   "CI": "象牙海岸",
   "fr_PM": "法文（圣皮埃尔和密克隆）",

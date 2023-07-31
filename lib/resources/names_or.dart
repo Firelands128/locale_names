@@ -1,3 +1,4 @@
+/// Locale names of Odia
 const names = {
   "001": "ବିଶ୍ୱ",
   "002": "ଆଫ୍ରିକା",

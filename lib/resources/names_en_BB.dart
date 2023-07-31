@@ -1,3 +1,4 @@
+/// Locale names of English (Barbados)
 const names = {
   "BL": "St. Barthélemy",
   "CZ": "Czechia",

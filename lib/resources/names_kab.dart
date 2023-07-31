@@ -1,3 +1,4 @@
+/// Locale names of Kabyle
 const names = {
   "001": "Amaḍal",
   "002": "Tafriqt",

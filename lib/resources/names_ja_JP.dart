@@ -1,3 +1,4 @@
+/// Locale names of Japanese (Japan)
 const names = {
   "arn": "アラウカン語",
   "bar": "Bavarian",

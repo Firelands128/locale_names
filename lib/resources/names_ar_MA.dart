@@ -1,3 +1,4 @@
+/// Locale names of Arabic (Morocco)
 const names = {
   "ar_001": "العربية الرسمية الحديثة",
   "arn": "الأروكانية",

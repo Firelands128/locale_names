@@ -1,3 +1,4 @@
+/// Locale names of Telugu
 const names = {
   "001": "ప్రపంచం",
   "002": "ఆఫ్రికా",

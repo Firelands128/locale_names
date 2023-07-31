@@ -1,3 +1,4 @@
+/// Locale names of Finnish (Finland)
 const names = {
   "aln": "geg",
   "fa": "farsi",

@@ -1,3 +1,4 @@
+/// Locale names of Vietnamese (Vietnam)
 const names = {
   "af": "Tiếng Nam Phi",
   "akz": "Alabama",

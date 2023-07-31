@@ -1,3 +1,4 @@
+/// Locale names of English (Antigua & Barbuda)
 const names = {
   "BL": "St. Barthélemy",
   "CZ": "Czechia",

@@ -1,3 +1,4 @@
+/// Locale names of French (French Polynesia)
 const names = {
   "ady": "adyghéen",
   "aeb": "Tunisian Arabic",

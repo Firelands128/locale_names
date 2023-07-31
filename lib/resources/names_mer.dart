@@ -1,3 +1,4 @@
+/// Locale names of Meru
 const names = {
   "AD": "Andora",
   "AE": "Falme cia Kiarabu",

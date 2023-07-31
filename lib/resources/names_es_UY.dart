@@ -1,3 +1,4 @@
+/// Locale names of Spanish (Uruguay)
 const names = {
   "ady": "adigeo",
   "az": "azerí",

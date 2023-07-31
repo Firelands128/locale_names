@@ -1,3 +1,4 @@
+/// Locale names of Makhuwa-Meetto
 const names = {
   "AD": "Uandora",
   "AF": "Ufugustani",

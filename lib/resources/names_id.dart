@@ -1,3 +1,4 @@
+/// Locale names of Indonesian
 const names = {
   "001": "Dunia",
   "002": "Afrika",

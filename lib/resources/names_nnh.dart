@@ -1,3 +1,4 @@
+/// Locale names of Ngiemboon
 const names = {
   "CM": "Kàmalûm",
   "bas": "Shwóŋò pʉa mbasǎ",

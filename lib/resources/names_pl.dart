@@ -1,3 +1,4 @@
+/// Locale names of Polish
 const names = {
   "001": "świat",
   "002": "Afryka",

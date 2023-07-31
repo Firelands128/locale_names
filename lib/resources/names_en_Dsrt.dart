@@ -1,3 +1,4 @@
+/// Locale names of English (Deseret)
 const names = {
   "001": "𐐎𐐲𐑉𐑊𐐼",
   "002": "𐐈𐑁𐑉𐐲𐐿𐐲",

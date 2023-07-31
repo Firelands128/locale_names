@@ -1,3 +1,4 @@
+/// Locale names of Russian (Ukraine)
 const names = {
   "AC": "О-в Вознесения",
   "AE": "Объединенные Арабские Эмираты",

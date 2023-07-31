@@ -1,3 +1,4 @@
+/// Locale names of French (Burkina Faso)
 const names = {
   "ady": "adyghéen",
   "aeb": "Tunisian Arabic",

@@ -1,3 +1,4 @@
+/// Locale names of Shambala
 const names = {
   "AD": "Andola",
   "AE": "Falme za Kialabu",

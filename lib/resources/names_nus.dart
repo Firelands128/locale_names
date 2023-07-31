@@ -1,3 +1,4 @@
+/// Locale names of Nuer
 const names = {
   "AD": "Andora",
   "AF": "Abganithtan",

@@ -1,3 +1,4 @@
+/// Locale names of French (Madagascar)
 const names = {
   "ady": "adyghéen",
   "aeb": "Tunisian Arabic",

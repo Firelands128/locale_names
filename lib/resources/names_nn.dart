@@ -1,3 +1,4 @@
+/// Locale names of Norwegian Nynorsk
 const names = {
   "001": "verda",
   "002": "Afrika",

@@ -1,3 +1,4 @@
+/// Locale names of French (Belgium)
 const names = {
   "BN": "Brunei",
   "GS": "Îles Géorgie du Sud et Sandwich du Sud",

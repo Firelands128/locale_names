@@ -1,3 +1,4 @@
+/// Locale names of Chinese (Simplified, Macau SAR China)
 const names = {
   "fr_PM": "法文（圣皮埃尔和密克隆）",
   "om": "奥罗莫文",

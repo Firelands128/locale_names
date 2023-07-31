@@ -1,3 +1,4 @@
+/// Locale names of Igbo (Nigeria)
 const names = {
   "AE": "United Arab Emirates",
   "AF": "Afghanistan",

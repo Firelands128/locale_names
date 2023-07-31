@@ -1,3 +1,4 @@
+/// Locale names of Volapük
 const names = {
   "BR": "Brasilän",
   "CN": "Tsyinän",

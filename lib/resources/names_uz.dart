@@ -1,3 +1,4 @@
+/// Locale names of Uzbek
 const names = {
   "001": "Dunyo",
   "002": "Afrika",

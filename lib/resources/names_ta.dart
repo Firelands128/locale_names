@@ -1,3 +1,4 @@
+/// Locale names of Tamil
 const names = {
   "001": "உலகம்",
   "002": "ஆப்ரிக்கா",

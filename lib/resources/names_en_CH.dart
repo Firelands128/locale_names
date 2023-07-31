@@ -1,3 +1,4 @@
+/// Locale names of English (Switzerland)
 const names = {
   "BL": "St. Barthélemy",
   "CZ": "Czechia",

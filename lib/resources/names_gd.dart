@@ -1,3 +1,4 @@
+/// Locale names of Scottish Gaelic
 const names = {
   "001": "An Saoghal",
   "002": "Afraga",

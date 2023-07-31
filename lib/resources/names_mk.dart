@@ -1,3 +1,4 @@
+/// Locale names of Macedonian
 const names = {
   "001": "Свет",
   "002": "Африка",

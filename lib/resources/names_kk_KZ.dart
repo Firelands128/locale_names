@@ -1,3 +1,4 @@
+/// Locale names of Kazakh (Kazakhstan)
 const names = {
   "aa": "Afar",
   "ace": "Achinese",

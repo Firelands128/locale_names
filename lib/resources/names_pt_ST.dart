@@ -1,3 +1,4 @@
+/// Locale names of Portuguese (São Tomé & Príncipe)
 const names = {
   "alt": "altai do sul",
   "arn": "araucano",

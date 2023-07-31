@@ -1,3 +1,4 @@
+/// Locale names of Belarusian (Belarus)
 const names = {
   "aa": "Afar",
   "ace": "Achinese",

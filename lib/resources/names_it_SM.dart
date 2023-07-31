@@ -1,3 +1,4 @@
+/// Locale names of Italian (San Marino)
 const names = {
   "arn": "araucano",
   "cv": "chuvash",

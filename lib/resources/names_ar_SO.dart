@@ -1,3 +1,4 @@
+/// Locale names of Arabic (Somalia)
 const names = {
   "ar_001": "العربية الرسمية الحديثة",
   "arn": "الأروكانية",

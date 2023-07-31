@@ -1,3 +1,4 @@
+/// Locale names of Azerbaijani (Cyrillic, Azerbaijan)
 const names = {
   "aa": "afarca",
   "ab": "abxaz",

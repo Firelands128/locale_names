@@ -1,3 +1,4 @@
+/// Locale names of Dutch (Belgium)
 const names = {
   "013": "Centraal-Amerika",
   "ain": "Ainu",

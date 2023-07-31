@@ -1,3 +1,4 @@
+/// Locale names of French (Mayotte)
 const names = {
   "ady": "adyghéen",
   "aeb": "Tunisian Arabic",

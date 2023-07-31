@@ -1,3 +1,4 @@
+/// Locale names of Vietnamese
 const names = {
   "001": "Thế giới",
   "002": "Châu Phi",

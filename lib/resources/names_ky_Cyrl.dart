@@ -1,3 +1,4 @@
+/// Locale names of Kyrgyz (Cyrillic)
 const names = {
   "AC": "Ассеншин аралы",
   "AI": "Ангуила",

@@ -1,3 +1,4 @@
+/// Locale names of Korean
 const names = {
   "001": "세계",
   "002": "아프리카",

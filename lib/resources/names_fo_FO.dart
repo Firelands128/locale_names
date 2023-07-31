@@ -1,3 +1,4 @@
+/// Locale names of Faroese (Faroe Islands)
 const names = {
   "MK": "North Macedonia",
   "aa": "Afar",

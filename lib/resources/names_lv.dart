@@ -1,3 +1,4 @@
+/// Locale names of Latvian
 const names = {
   "001": "pasaule",
   "002": "Āfrika",

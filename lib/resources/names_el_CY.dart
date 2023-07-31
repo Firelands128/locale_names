@@ -1,3 +1,4 @@
+/// Locale names of Greek (Cyprus)
 const names = {
   "ace": "Αχινίζ",
   "ale": "Αλούτ",

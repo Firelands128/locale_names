@@ -1,3 +1,4 @@
+/// Locale names of Russian (Kyrgyzstan)
 const names = {
   "frc": "Cajun French",
   "gan": "Gan Chinese",

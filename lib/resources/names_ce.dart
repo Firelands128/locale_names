@@ -1,3 +1,4 @@
+/// Locale names of Chechen
 const names = {
   "001": "Дерригдуьненан",
   "002": "Африка",

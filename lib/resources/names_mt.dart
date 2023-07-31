@@ -1,3 +1,4 @@
+/// Locale names of Maltese
 const names = {
   "001": "Dinja",
   "002": "Affrika",

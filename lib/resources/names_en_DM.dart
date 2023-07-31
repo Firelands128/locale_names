@@ -1,3 +1,4 @@
+/// Locale names of English (Dominica)
 const names = {
   "BL": "St. Barthélemy",
   "CZ": "Czechia",

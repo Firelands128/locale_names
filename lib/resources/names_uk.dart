@@ -1,3 +1,4 @@
+/// Locale names of Ukrainian
 const names = {
   "001": "Світ",
   "002": "Африка",

@@ -1,3 +1,4 @@
+/// Locale names of English (South Sudan)
 const names = {
   "BL": "St. Barthélemy",
   "CZ": "Czechia",

@@ -1,3 +1,4 @@
+/// Locale names of Taita
 const names = {
   "AD": "Andora",
   "AE": "Falme za Kiarabu",

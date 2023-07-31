@@ -1,3 +1,4 @@
+/// Locale names of Zulu (South Africa)
 const names = {
   "aa": "Afar",
   "ace": "Achinese",

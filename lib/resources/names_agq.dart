@@ -1,3 +1,4 @@
+/// Locale names of Aghem
 const names = {
   "AD": "Àndolà",
   "AE": "Yùnaetɛ Alab ɛmelɛ̀",

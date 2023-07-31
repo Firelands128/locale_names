@@ -1,3 +1,4 @@
+/// Locale names of Vai (Latin)
 const names = {
   "AD": "Aŋdóra",
   "AE": "Yunaitɛ Arabhi Ɛmire",

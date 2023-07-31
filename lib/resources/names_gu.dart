@@ -1,3 +1,4 @@
+/// Locale names of Gujarati
 const names = {
   "001": "વિશ્વ",
   "002": "આફ્રિકા",

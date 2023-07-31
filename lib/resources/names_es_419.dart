@@ -1,3 +1,4 @@
+/// Locale names of Latin American Spanish
 const names = {
   "011": "África del Oeste",
   "014": "África del Este",

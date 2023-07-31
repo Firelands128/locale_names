@@ -1,3 +1,4 @@
+/// Locale names of Mongolian (Cyrillic)
 const names = {
   "AC": "Аскенсион Арал",
   "AE": "Арабын Нэгдсэн Эмират",

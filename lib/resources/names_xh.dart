@@ -1,3 +1,4 @@
+/// Locale names of Xhosa
 const names = {
   "001": "Kwihlabathi",
   "002": "Afrika",

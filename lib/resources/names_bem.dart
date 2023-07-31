@@ -1,3 +1,4 @@
+/// Locale names of Bemba
 const names = {
   "ZM": "Zambia",
   "ak": "Ichi Akan",

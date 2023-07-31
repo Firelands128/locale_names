@@ -1,3 +1,4 @@
+/// Locale names of Walser
 const names = {
   "001": "Wäld",
   "002": "Afrika",

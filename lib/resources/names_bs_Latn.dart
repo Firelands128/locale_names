@@ -1,3 +1,4 @@
+/// Locale names of Bosnian (Latin)
 const names = {
   "ab": "abhazijski",
   "ace": "ačineski",

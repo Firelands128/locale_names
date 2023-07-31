@@ -1,3 +1,4 @@
+/// Locale names of Rombo
 const names = {
   "AD": "Andoro",
   "AE": "Falme za Kiarabu",

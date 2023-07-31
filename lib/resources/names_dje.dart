@@ -1,3 +1,4 @@
+/// Locale names of Zarma
 const names = {
   "AD": "Andoora",
   "AE": "Laaraw Imaarawey Margantey",

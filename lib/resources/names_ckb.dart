@@ -1,3 +1,4 @@
+/// Locale names of Central Kurdish
 const names = {
   "001": "جیهان",
   "002": "ئەفریقا",

@@ -1,3 +1,4 @@
+/// Locale names of Turkish (Turkey)
 const names = {
   "ace": "Achinese",
   "ale": "Aleut",

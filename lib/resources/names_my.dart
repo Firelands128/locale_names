@@ -1,3 +1,4 @@
+/// Locale names of Burmese
 const names = {
   "001": "ကမ္ဘာ",
   "002": "အာဖရိက",

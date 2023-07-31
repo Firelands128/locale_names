@@ -1,3 +1,4 @@
+/// Locale names of Romanian (Romania)
 const names = {
   "be": "bielorusă",
   "ceb": "cebuano",

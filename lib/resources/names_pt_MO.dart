@@ -1,3 +1,4 @@
+/// Locale names of Portuguese (Macau SAR China)
 const names = {
   "alt": "altai do sul",
   "arn": "araucano",

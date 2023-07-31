@@ -1,3 +1,4 @@
+/// Locale names of Dutch (Curaçao)
 const names = {
   "ain": "Ainu",
   "gan": "Gan Chinese",

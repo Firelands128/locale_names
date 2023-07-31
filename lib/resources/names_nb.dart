@@ -1,3 +1,4 @@
+/// Locale names of Norwegian Bokmål
 const names = {
   "001": "verden",
   "002": "Afrika",

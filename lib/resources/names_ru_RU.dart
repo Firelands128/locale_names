@@ -1,3 +1,4 @@
+/// Locale names of Russian (Russia)
 const names = {
   "frc": "Cajun French",
   "gan": "Gan Chinese",

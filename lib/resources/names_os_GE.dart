@@ -1,3 +1,4 @@
+/// Locale names of Ossetic (Georgia)
 const names = {
   "de_AT": "German (Austria)",
   "de_CH": "German (Switzerland)",

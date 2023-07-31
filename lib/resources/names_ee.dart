@@ -1,3 +1,4 @@
+/// Locale names of Ewe
 const names = {
   "001": "xexeme",
   "002": "Afrika nutome",

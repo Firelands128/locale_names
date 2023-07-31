@@ -1,3 +1,4 @@
+/// Locale names of Swedish (Finland)
 const names = {
   "Arab": "persisk-arabiska",
   "ar_PS": "arabiska (Palestinska området)",

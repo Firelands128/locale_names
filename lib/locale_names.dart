@@ -642,7 +642,9 @@ import 'resources/names_zh_TW.dart' as names_zh_TW;
 import 'resources/names_zu.dart' as names_zu;
 import 'resources/names_zu_ZA.dart' as names_zu_ZA;
 
+/// Locale extension to display names
 extension DisplayNames on Locale {
+  /// Locale names table
   static Map<String, dynamic> tables = {
     'af': names_af.names,
     'af_NA': names_af_NA.names,
@@ -1287,16 +1289,19 @@ extension DisplayNames on Locale {
     'zu_ZA': names_zu_ZA.names
   };
 
+  /// Default display language
   String get defaultDisplayLanguage {
     final lookup = _getLookup();
     return lookup[languageCode] ?? "";
   }
 
+  /// Default display language script
   String get defaultDisplayLanguageScript {
     final lookup = _getLookup();
     return lookup[languageScript] ?? "";
   }
 
+  /// Default display country
   String get defaultDisplayCountry {
     if (countryCode != null) {
       final lookup = _getLookup();
@@ -1305,16 +1310,19 @@ extension DisplayNames on Locale {
     return "";
   }
 
+  /// Native display language
   String get nativeDisplayLanguage {
     final lookup = _getLookup(locale: this);
     return lookup[languageCode] ?? "";
   }
 
+  /// Native display language script
   String get nativeDisplayLanguageScript {
     final lookup = _getLookup(locale: this);
     return lookup[languageScript] ?? "";
   }
 
+  /// Native display country
   String get nativeDisplayCountry {
     if (countryCode != null) {
       final lookup = _getLookup(locale: this);
@@ -1323,16 +1331,19 @@ extension DisplayNames on Locale {
     return "";
   }
 
+  /// Display language in locale
   String displayLanguageIn(Locale locale) {
     final lookup = _getLookup(locale: locale);
     return lookup[languageCode] ?? "";
   }
 
+  /// Display language script in locale
   String displayLanguageScriptIn(Locale locale) {
     final lookup = _getLookup(locale: locale);
     return lookup[languageScript] ?? "";
   }
 
+  /// Display country in locale
   String displayCountryIn(Locale locale) {
     if (countryCode != null) {
       final lookup = _getLookup(locale: locale);
@@ -1341,10 +1352,12 @@ extension DisplayNames on Locale {
     return "";
   }
 
+  /// Language script
   String get languageScript {
     return languageCode + (scriptCode == null || scriptCode!.isEmpty ? "" : "_$scriptCode");
   }
 
+  /// Get look up table
   Map<String, String> _getLookup({Locale? locale}) {
     if (locale == null) {
       return names_en.names;
@@ -1353,6 +1366,7 @@ extension DisplayNames on Locale {
     return _load(name);
   }
 
+  /// load locale names
   Map<String, String> _load(String name) {
     Map<String, String> parent = Map.from(names_en.names);
     List<String> parts = name.split('_');

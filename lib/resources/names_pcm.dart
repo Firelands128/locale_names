@@ -1,3 +1,4 @@
+/// Locale names of Nigerian Pidgin
 const names = {
   "001": "Wọld",
   "002": "Áfríka",

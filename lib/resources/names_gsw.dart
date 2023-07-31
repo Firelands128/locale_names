@@ -1,3 +1,4 @@
+/// Locale names of Swiss German
 const names = {
   "001": "Wält",
   "002": "Afrika",

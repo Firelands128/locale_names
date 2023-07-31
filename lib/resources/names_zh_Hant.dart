@@ -1,3 +1,4 @@
+/// Locale names of Chinese (Traditional)
 const names = {
   "014": "東非",
   "021": "北美地區",

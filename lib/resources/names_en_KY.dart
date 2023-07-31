@@ -1,3 +1,4 @@
+/// Locale names of English (Cayman Islands)
 const names = {
   "BL": "St. Barthélemy",
   "CZ": "Czechia",

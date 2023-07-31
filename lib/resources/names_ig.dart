@@ -1,3 +1,4 @@
+/// Locale names of Igbo
 const names = {
   "001": "Uwa",
   "002": "Afrika",

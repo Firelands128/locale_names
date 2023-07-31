@@ -1,3 +1,4 @@
+/// Locale names of Spanish (Honduras)
 const names = {
   "ady": "adigeo",
   "bas": "basa",

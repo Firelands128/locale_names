@@ -1,3 +1,4 @@
+/// Locale names of Breton
 const names = {
   "001": "Bed",
   "002": "Afrika",

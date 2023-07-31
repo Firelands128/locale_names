@@ -1,3 +1,4 @@
+/// Locale names of English (St. Lucia)
 const names = {
   "BL": "St. Barthélemy",
   "CZ": "Czechia",

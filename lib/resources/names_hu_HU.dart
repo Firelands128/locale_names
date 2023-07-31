@@ -1,3 +1,4 @@
+/// Locale names of Hungarian (Hungary)
 const names = {
   "frc": "Cajun French",
   "fy": "fríz",

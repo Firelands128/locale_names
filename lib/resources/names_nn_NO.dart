@@ -1,3 +1,4 @@
+/// Locale names of Norwegian Nynorsk (Norway)
 const names = {
   "ady": "adyghe",
   "alt": "sør-altai",

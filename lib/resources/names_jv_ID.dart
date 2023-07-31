@@ -1,3 +1,4 @@
+/// Locale names of Javanese (Indonesia)
 const names = {
   "IN": "India",
   "KP": "North Korea",

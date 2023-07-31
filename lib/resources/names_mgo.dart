@@ -1,3 +1,4 @@
+/// Locale names of Metaʼ
 const names = {
   "CM": "Kamalun",
   "Latn": "ngam ŋwaʼri",

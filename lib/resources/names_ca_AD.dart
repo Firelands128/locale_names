@@ -1,3 +1,4 @@
+/// Locale names of Catalan (Andorra)
 const names = {
   "akz": "Alabama",
   "aln": "Gheg Albanian",

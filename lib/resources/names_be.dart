@@ -1,3 +1,4 @@
+/// Locale names of Belarusian
 const names = {
   "001": "Свет",
   "002": "Афрыка",

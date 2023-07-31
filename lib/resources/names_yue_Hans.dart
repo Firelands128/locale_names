@@ -1,3 +1,4 @@
+/// Locale names of Cantonese (Simplified Chinese)
 const names = {
   "014": "东非",
   "030": "东亚",

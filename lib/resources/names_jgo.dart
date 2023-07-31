@@ -1,3 +1,4 @@
+/// Locale names of Ngomba
 const names = {
   "001": "Mbí",
   "002": "Afɛlîk",

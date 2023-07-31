@@ -1,3 +1,4 @@
+/// Locale names of Langi
 const names = {
   "AD": "Andóra",
   "AE": "Ʉtemi wa Kɨaráabu",

@@ -1,3 +1,4 @@
+/// Locale names of Russian
 const names = {
   "001": "весь мир",
   "002": "Африка",

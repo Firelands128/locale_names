@@ -1,3 +1,4 @@
+/// Locale names of Irish (Ireland)
 const names = {
   "ady": "Adyghe",
   "bm": "Bambara",

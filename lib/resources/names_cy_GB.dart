@@ -1,3 +1,4 @@
+/// Locale names of Welsh (United Kingdom)
 const names = {
   "asa": "Asu",
   "ast": "Asturian",

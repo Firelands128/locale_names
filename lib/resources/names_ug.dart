@@ -1,3 +1,4 @@
+/// Locale names of Uyghur
 const names = {
   "001": "دۇنيا",
   "002": "ئافرىقا",

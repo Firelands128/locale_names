@@ -1,3 +1,4 @@
+/// Locale names of Hausa
 const names = {
   "001": "Duniya",
   "002": "Afirka",

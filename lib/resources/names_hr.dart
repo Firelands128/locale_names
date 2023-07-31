@@ -1,3 +1,4 @@
+/// Locale names of Croatian
 const names = {
   "001": "Svijet",
   "002": "Afrika",

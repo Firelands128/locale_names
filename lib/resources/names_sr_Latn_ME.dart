@@ -1,3 +1,4 @@
+/// Locale names of Serbian (Latin, Montenegro)
 const names = {
   "BY": "Bjelorusija",
   "CG": "Kongo",

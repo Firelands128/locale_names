@@ -1,3 +1,4 @@
+/// Locale names of Bena
 const names = {
   "AD": "Huandola",
   "AE": "Hufalme dza Hihalabu",

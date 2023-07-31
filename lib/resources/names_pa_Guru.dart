@@ -1,3 +1,4 @@
+/// Locale names of Punjabi (Gurmukhi)
 const names = {
   "aa": "Afar",
   "ada": "Adangme",

@@ -1,3 +1,4 @@
+/// Locale names of Catalan (Italy)
 const names = {
   "akz": "Alabama",
   "aln": "Gheg Albanian",

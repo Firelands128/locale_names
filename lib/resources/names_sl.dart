@@ -1,3 +1,4 @@
+/// Locale names of Slovenian
 const names = {
   "001": "svet",
   "002": "Afrika",

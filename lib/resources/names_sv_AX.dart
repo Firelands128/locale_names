@@ -1,3 +1,4 @@
+/// Locale names of Swedish (Åland Islands)
 const names = {
   "bbc": "Batak Toba",
   "cps": "Capiznon",

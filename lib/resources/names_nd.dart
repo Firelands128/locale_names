@@ -1,3 +1,4 @@
+/// Locale names of North Ndebele
 const names = {
   "AD": "Andora",
   "AE": "United Arab Emirates",

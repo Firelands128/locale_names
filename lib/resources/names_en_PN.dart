@@ -1,3 +1,4 @@
+/// Locale names of English (Pitcairn Islands)
 const names = {
   "BL": "St. Barthélemy",
   "CZ": "Czechia",

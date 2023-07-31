@@ -1,3 +1,4 @@
+/// Locale names of Hausa (Niger)
 const names = {
   "AX": "Åland Islands",
   "BV": "Bouvet Island",

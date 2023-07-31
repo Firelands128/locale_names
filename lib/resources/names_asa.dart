@@ -1,3 +1,4 @@
+/// Locale names of Asu
 const names = {
   "AD": "Andora",
   "AE": "Falme dha Kiarabu",

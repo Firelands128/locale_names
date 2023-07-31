@@ -1,3 +1,4 @@
+/// Locale names of Northern Luri
 const names = {
   "001": "دونیا",
   "002": "ئفریقا",

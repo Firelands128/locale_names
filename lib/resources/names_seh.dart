@@ -1,3 +1,4 @@
+/// Locale names of Sena
 const names = {
   "AD": "Andorra",
   "AE": "Emirados Árabes Unidos",

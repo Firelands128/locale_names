@@ -1,3 +1,4 @@
+/// Locale names of French (Congo - Brazzaville)
 const names = {
   "ady": "adyghéen",
   "aeb": "Tunisian Arabic",

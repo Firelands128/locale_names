@@ -1,3 +1,4 @@
+/// Locale names of Portuguese (Guinea-Bissau)
 const names = {
   "alt": "altai do sul",
   "arn": "araucano",

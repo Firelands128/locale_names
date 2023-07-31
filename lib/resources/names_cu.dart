@@ -1,3 +1,4 @@
+/// Locale names of Church Slavic
 const names = {
   "AU": "А҆ѵстралі́ѧ",
   "Arab": "а҆раві́йскаѧ",

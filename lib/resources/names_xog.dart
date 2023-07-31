@@ -1,3 +1,4 @@
+/// Locale names of Soga
 const names = {
   "AD": "Andora",
   "AE": "Emireeti",

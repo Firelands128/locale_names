@@ -1,3 +1,4 @@
+/// Locale names of Kannada
 const names = {
   "001": "ಪ್ರಪಂಚ",
   "002": "ಆಫ್ರಿಕಾ",

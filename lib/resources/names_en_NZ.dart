@@ -1,3 +1,4 @@
+/// Locale names of English (New Zealand)
 const names = {
   "BL": "St. Barthélemy",
   "CZ": "Czechia",

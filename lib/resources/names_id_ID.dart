@@ -1,3 +1,4 @@
+/// Locale names of Indonesian (Indonesia)
 const names = {
   "arq": "Arab Algeria",
   "ast": "Astur",

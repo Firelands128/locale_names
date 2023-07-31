@@ -1,3 +1,4 @@
+/// Locale names of Quechua (Bolivia)
 const names = {
   "agq": "Aghem",
   "ak": "Akan",

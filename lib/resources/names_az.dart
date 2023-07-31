@@ -1,3 +1,4 @@
+/// Locale names of Azerbaijani
 const names = {
   "001": "Dünya",
   "002": "Afrika",

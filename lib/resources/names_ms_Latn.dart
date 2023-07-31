@@ -1,3 +1,4 @@
+/// Locale names of Malay (Latin)
 const names = {
   "BL": "Saint Barthélemy",
   "CZ": "Republik Czech",

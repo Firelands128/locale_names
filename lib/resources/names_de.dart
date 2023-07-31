@@ -1,3 +1,4 @@
+/// Locale names of German
 const names = {
   "001": "Welt",
   "002": "Afrika",

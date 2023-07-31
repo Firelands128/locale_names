@@ -1,3 +1,4 @@
+/// Locale names of Nepali (India)
 const names = {
   "aa": "Afar",
   "ace": "Achinese",

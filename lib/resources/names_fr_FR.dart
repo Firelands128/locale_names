@@ -1,3 +1,4 @@
+/// Locale names of French (France)
 const names = {
   "ady": "adyghéen",
   "aeb": "Tunisian Arabic",

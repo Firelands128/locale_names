@@ -1,3 +1,4 @@
+/// Locale names of English (Puerto Rico)
 const names = {
   "BL": "St. Barthélemy",
   "CZ": "Czechia",

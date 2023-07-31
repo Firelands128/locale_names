@@ -1,3 +1,4 @@
+/// Locale names of Turkmen
 const names = {
   "001": "Dünýä",
   "002": "Afrika",

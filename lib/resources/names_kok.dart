@@ -1,3 +1,4 @@
+/// Locale names of Konkani
 const names = {
   "001": "जग",
   "002": "आफ्रिका",

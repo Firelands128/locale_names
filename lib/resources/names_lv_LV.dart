@@ -1,3 +1,4 @@
+/// Locale names of Latvian (Latvia)
 const names = {
   "frc": "Cajun French",
   "gd": "gēlu",

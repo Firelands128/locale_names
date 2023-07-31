@@ -1,3 +1,4 @@
+/// Locale names of Kako
 const names = {
   "CM": "Kamɛrun",
   "en": "yaman",

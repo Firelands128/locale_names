@@ -1,3 +1,4 @@
+/// Locale names of Santali
 const names = {
   "Arab": "ᱟᱨᱵᱤᱠ",
   "BR": "ᱵᱨᱟᱡᱤᱞ",

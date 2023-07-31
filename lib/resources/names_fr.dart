@@ -1,3 +1,4 @@
+/// Locale names of French
 const names = {
   "001": "Monde",
   "002": "Afrique",

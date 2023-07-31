@@ -1,3 +1,4 @@
+/// Locale names of English (Isle of Man)
 const names = {
   "BL": "St. Barthélemy",
   "CZ": "Czechia",

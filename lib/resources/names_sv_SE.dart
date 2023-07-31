@@ -1,3 +1,4 @@
+/// Locale names of Swedish (Sweden)
 const names = {
   "bbc": "Batak Toba",
   "cps": "Capiznon",

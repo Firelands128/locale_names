@@ -1,3 +1,4 @@
+/// Locale names of Malay (Malaysia)
 const names = {
   "ace": "Achinese",
   "an": "Aragonese",

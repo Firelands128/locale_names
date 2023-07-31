@@ -1,3 +1,4 @@
+/// Locale names of Malayalam
 const names = {
   "001": "ലോകം",
   "002": "ആഫ്രിക്ക",

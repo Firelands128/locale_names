@@ -1,3 +1,4 @@
+/// Locale names of Catalan
 const names = {
   "001": "Món",
   "002": "Àfrica",

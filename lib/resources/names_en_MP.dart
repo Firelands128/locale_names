@@ -1,3 +1,4 @@
+/// Locale names of English (Northern Mariana Islands)
 const names = {
   "BL": "St. Barthélemy",
   "CZ": "Czechia",

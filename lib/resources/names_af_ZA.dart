@@ -1,3 +1,4 @@
+/// Locale names of Afrikaans (South Africa)
 const names = {
   "CY": "Siprus",
   "HM": "Heardeiland en McDonaldeilande",

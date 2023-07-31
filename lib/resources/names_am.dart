@@ -1,3 +1,4 @@
+/// Locale names of Amharic
 const names = {
   "001": "ዓለም",
   "002": "አፍሪካ",

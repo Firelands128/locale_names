@@ -1,3 +1,4 @@
+/// Locale names of Fula
 const names = {
   "AD": "Anndoora",
   "AE": "Emiraat Araab Denntuɗe",

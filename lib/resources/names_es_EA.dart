@@ -1,3 +1,4 @@
+/// Locale names of Spanish (Ceuta & Melilla)
 const names = {
   "MK": "Macedonia",
   "XA": "Pseudo-Accents",

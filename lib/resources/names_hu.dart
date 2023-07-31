@@ -1,3 +1,4 @@
+/// Locale names of Hungarian
 const names = {
   "001": "Világ",
   "002": "Afrika",

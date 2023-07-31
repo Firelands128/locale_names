@@ -1,3 +1,4 @@
+/// Locale names of Bosnian (Cyrillic, Bosnia & Herzegovina)
 const names = {
   "af": "африканерски",
   "agq": "aghem",

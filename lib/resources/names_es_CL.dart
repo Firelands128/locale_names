@@ -1,3 +1,4 @@
+/// Locale names of Spanish (Chile)
 const names = {
   "EH": "Sahara Occidental",
   "ady": "adigeo",

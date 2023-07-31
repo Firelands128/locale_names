@@ -1,3 +1,4 @@
+/// Locale names of Irish
 const names = {
   "001": "an Domhan",
   "002": "an Afraic",

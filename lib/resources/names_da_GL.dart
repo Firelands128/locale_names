@@ -1,3 +1,4 @@
+/// Locale names of Danish (Greenland)
 const names = {
   "arn": "araukansk",
   "bas": "basa",

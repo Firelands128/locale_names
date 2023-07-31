@@ -1,3 +1,4 @@
+/// Locale names of Spanish (Puerto Rico)
 const names = {
   "ady": "adigeo",
   "az": "azerí",

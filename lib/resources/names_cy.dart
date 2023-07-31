@@ -1,3 +1,4 @@
+/// Locale names of Welsh
 const names = {
   "001": "Y Byd",
   "002": "Affrica",

@@ -1,3 +1,4 @@
+/// Locale names of Quechua (Peru)
 const names = {
   "agq": "Aghem",
   "ak": "Akan",

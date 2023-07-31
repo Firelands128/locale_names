@@ -1,3 +1,4 @@
+/// Locale names of Chinese (Macau SAR China)
 const names = {
   "AD": "安道爾",
   "AE": "阿拉伯聯合大公國",

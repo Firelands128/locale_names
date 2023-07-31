@@ -1,3 +1,4 @@
+/// Locale names of Oromo
 const names = {
   "AD": "Andorra",
   "AE": "United Arab Emirates",

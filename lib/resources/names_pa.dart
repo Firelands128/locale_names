@@ -1,3 +1,4 @@
+/// Locale names of Punjabi
 const names = {
   "001": "ਸੰਸਾਰ",
   "002": "ਅਫ਼ਰੀਕਾ",

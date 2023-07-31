@@ -1,3 +1,4 @@
+/// Locale names of Romanian
 const names = {
   "001": "Lume",
   "002": "Africa",

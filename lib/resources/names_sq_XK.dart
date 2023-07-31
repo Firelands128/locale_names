@@ -1,3 +1,4 @@
+/// Locale names of Albanian (Kosovo)
 const names = {
   "aa": "Afar",
   "ace": "Achinese",

@@ -1,3 +1,4 @@
+/// Locale names of Serbian (Bosnia & Herzegovina)
 const names = {
   "BY": "Бјелорусија",
   "CG": "Конго",

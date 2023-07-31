@@ -1,3 +1,4 @@
+/// Locale names of Bafia
 const names = {
   "AD": "andɔrǝ",
   "AE": "bǝlɔŋ bǝ kaksa bɛ táatáaŋzǝn",

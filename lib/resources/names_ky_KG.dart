@@ -1,3 +1,4 @@
+/// Locale names of Kyrgyz (Kyrgyzstan)
 const names = {
   "aa": "Afar",
   "ace": "Achinese",

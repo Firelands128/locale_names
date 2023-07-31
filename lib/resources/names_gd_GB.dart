@@ -1,3 +1,4 @@
+/// Locale names of Scottish Gaelic (United Kingdom)
 const names = {
   "ace": "Achinese",
   "akk": "Akkadian",

@@ -1,3 +1,4 @@
+/// Locale names of Tongan (Tonga)
 const names = {
   "bn": "lea fakapengikali",
   "ckb": "lea fakakūtisi-solani",
