@@ -1289,20 +1289,17 @@ extension DisplayNames on Locale {
 
   String get defaultDisplayLanguage {
     final lookup = _getLookup();
-    final languageCode = this.languageCode;
     return lookup[languageCode] ?? "";
   }
 
   String get defaultDisplayLanguageScript {
     final lookup = _getLookup();
-    final languageScript = this.languageScript;
     return lookup[languageScript] ?? "";
   }
 
   String get defaultDisplayCountry {
-    if (this.countryCode != null) {
+    if (countryCode != null) {
       final lookup = _getLookup();
-      final countryCode = this.countryCode;
       return lookup[countryCode] ?? "";
     }
     return "";
@@ -1310,20 +1307,17 @@ extension DisplayNames on Locale {
 
   String get nativeDisplayLanguage {
     final lookup = _getLookup(locale: this);
-    final languageCode = this.languageCode;
     return lookup[languageCode] ?? "";
   }
 
   String get nativeDisplayLanguageScript {
     final lookup = _getLookup(locale: this);
-    final languageScript = this.languageScript;
     return lookup[languageScript] ?? "";
   }
 
   String get nativeDisplayCountry {
-    if (this.countryCode != null) {
+    if (countryCode != null) {
       final lookup = _getLookup(locale: this);
-      final countryCode = this.countryCode;
       return lookup[countryCode] ?? "";
     }
     return "";
@@ -1331,26 +1325,24 @@ extension DisplayNames on Locale {
 
   String displayLanguageIn(Locale locale) {
     final lookup = _getLookup(locale: locale);
-    return lookup[this.languageCode] ?? "";
+    return lookup[languageCode] ?? "";
   }
 
   String displayLanguageScriptIn(Locale locale) {
     final lookup = _getLookup(locale: locale);
-    final languageScript = this.languageScript;
     return lookup[languageScript] ?? "";
   }
 
   String displayCountryIn(Locale locale) {
-    if (this.countryCode != null) {
+    if (countryCode != null) {
       final lookup = _getLookup(locale: locale);
-      final countryCode = this.countryCode;
       return lookup[countryCode] ?? "";
     }
     return "";
   }
 
   String get languageScript {
-    return this.languageCode + (this.scriptCode == null || this.scriptCode!.isEmpty ? "" : "_${this.scriptCode}");
+    return languageCode + (scriptCode == null || scriptCode!.isEmpty ? "" : "_$scriptCode");
   }
 
   Map<String, String> _getLookup({Locale? locale}) {
@@ -1358,7 +1350,7 @@ extension DisplayNames on Locale {
       return names_en.names;
     }
     String name = locale.toString();
-    return this._load(name);
+    return _load(name);
   }
 
   Map<String, String> _load(String name) {
@@ -1366,7 +1358,7 @@ extension DisplayNames on Locale {
     List<String> parts = name.split('_');
     if (parts.length > 1) {
       String parentName = parts.sublist(0, parts.length - 1).join("_");
-      parent = this._load(parentName);
+      parent = _load(parentName);
     }
     Map<String, dynamic>? data = tables[name];
     if (data != null) {
