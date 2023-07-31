@@ -1,3 +1,8 @@
+## 1.1.1
+Add flutter_lints and analysis_options.yaml files.
+
+Add dartdoc comments for public APIs.
+
 ## 1.1.0
 Migrating to Dart 3.
 
